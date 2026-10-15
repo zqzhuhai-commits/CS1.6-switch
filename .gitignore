@@ -1,0 +1,8 @@
+prod.keys
+*.keys
+keys.dat
+keys.txt
+private-build/
+__pycache__/
+CS16-Switch-v0.1.0-test.zip
+release/

@@ -1,0 +1,49 @@
+name: Publish test package
+on:
+  push:
+    branches: [main]
+    paths:
+      - package-parts/**
+      - binaries/**
+      - scripts/assemble_package.py
+      - .github/workflows/release.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: cs16-test-release
+  cancel-in-progress: false
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reassemble and verify package
+        run: |
+          python3 scripts/assemble_package.py
+          sha256sum -c SHA256SUMS
+          python3 -m zipfile -t CS16-Switch-v0.1.0-test.zip
+      - name: Prepare release notes
+        run: |
+          cat > release-notes.md <<'EOF'
+          # 反恐精英 CS 1.6 — Switch 测试包
+
+          包含客户端资源、Switch NRO、NSP 前端、手柄与机器人对战配置。
+
+          **尚未经过 Switch 真机验证。** 已检查 ZIP 完整性、NRO/NSP 结构、标题和启动路径。
+
+          下载完整 ZIP，把“SD卡根目录”内的内容复制至 SD 卡根目录，再安装“NSP前端”中的 NSP。
+
+          NSP 入口固定为 `/switch/xash3d-cstrike.nro`，资源目录为 `/xash3d`。单独下载 NSP 不包含游戏数据。
+
+          详见仓库 README 中的安装步骤、按键说明、兼容性限制和上游来源。
+          EOF
+      - name: Publish prerelease downloads
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if gh release view v0.1.0-test >/dev/null 2>&1; then
+            gh release upload v0.1.0-test CS16-Switch-v0.1.0-test.zip binaries/Counter-Strike-CS-1.6-Forwarder.nsp binaries/xash3d-cstrike.nro SHA256SUMS --clobber
+          else
+            gh release create v0.1.0-test CS16-Switch-v0.1.0-test.zip binaries/Counter-Strike-CS-1.6-Forwarder.nsp binaries/xash3d-cstrike.nro SHA256SUMS --title '反恐精英 CS 1.6 — Switch v0.1.0-test' --notes-file release-notes.md --prerelease --target "${GITHUB_SHA}"
+          fi

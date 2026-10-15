@@ -1,0 +1,117 @@
+{
+  "filename": "CS16-Switch-v0.1.0-test.zip",
+  "size": 183343490,
+  "sha256": "15f4b3b5ec362d9498cb77d44b1a6e41920de1d886accd44fe8aeefbaf540017",
+  "parts": [
+    {
+      "name": "CS16-Switch.zip.part001",
+      "size": 8388608,
+      "sha256": "a81bd6f7fd7182368dc1dde10c0f29409cc36122d886db54b1d56b74d18bd469"
+    },
+    {
+      "name": "CS16-Switch.zip.part002",
+      "size": 8388608,
+      "sha256": "74bce8191a5fce97d26bae0bb16eb4138bd75f3e5bb8b2ff24e82b54e4fda851"
+    },
+    {
+      "name": "CS16-Switch.zip.part003",
+      "size": 8388608,
+      "sha256": "ff66b108e793503f4727950fccae4c8289ce52302e620193358f0020451d65ea"
+    },
+    {
+      "name": "CS16-Switch.zip.part004",
+      "size": 8388608,
+      "sha256": "8b9f56dfda5820f66d6fae01001a2d9463d69e1f4d1ac93ebce1b89d10e1cdae"
+    },
+    {
+      "name": "CS16-Switch.zip.part005",
+      "size": 8388608,
+      "sha256": "ae449e1ada3ff452bdb4eba36acc351af9c410cbe61f0c8080ea64e953d9ca5c"
+    },
+    {
+      "name": "CS16-Switch.zip.part006",
+      "size": 8388608,
+      "sha256": "64eccea524b889180226017488a5e444fed4ca2ca09a078a81607b95c30cd8c3"
+    },
+    {
+      "name": "CS16-Switch.zip.part007",
+      "size": 8388608,
+      "sha256": "927ae95f20a67942fd298d458f32712f805d991c623c432f22cb69c323ae9019"
+    },
+    {
+      "name": "CS16-Switch.zip.part008",
+      "size": 8388608,
+      "sha256": "93bc1e6984b5ba9236f2bd8450982e432e598555ec9b00f2107a33d4f2275407"
+    },
+    {
+      "name": "CS16-Switch.zip.part009",
+      "size": 8388608,
+      "sha256": "2e6a28d8da93e861f14bb57ec20ee9e2031051a0eb271f10008e3995e648dec3"
+    },
+    {
+      "name": "CS16-Switch.zip.part010",
+      "size": 8388608,
+      "sha256": "5073f3988a447627e1d63c694ac002c5760044d6f3fa7562533345a9c038c1c8"
+    },
+    {
+      "name": "CS16-Switch.zip.part011",
+      "size": 8388608,
+      "sha256": "2bfbc5cd960054e6287ba0a36e8c8789c7006393ea12939e9515dcb81ffc2272"
+    },
+    {
+      "name": "CS16-Switch.zip.part012",
+      "size": 8388608,
+      "sha256": "7485dd5d1e8a62cfbab675fc5422f638085f1f9754f562f26a2afe97b04c1c1c"
+    },
+    {
+      "name": "CS16-Switch.zip.part013",
+      "size": 8388608,
+      "sha256": "ae5a29bf869d38fdde676880dbeeef8ed92be237161bca457ea0cd448632f278"
+    },
+    {
+      "name": "CS16-Switch.zip.part014",
+      "size": 8388608,
+      "sha256": "7f48dbf19120bb4c7c6ab9d5a6817cca7d759faae223858c98fb06e8a13a89d1"
+    },
+    {
+      "name": "CS16-Switch.zip.part015",
+      "size": 8388608,
+      "sha256": "70a963c7f7ab3f7ee2a6577412c04dec41933249de4425a6d714968fd15c11b6"
+    },
+    {
+      "name": "CS16-Switch.zip.part016",
+      "size": 8388608,
+      "sha256": "eef99c7138c21b30791dd90cd630f10ad50dc196e9f022159f2a1b782e2f3848"
+    },
+    {
+      "name": "CS16-Switch.zip.part017",
+      "size": 8388608,
+      "sha256": "105238bde354c4af5125cd5d31ae7ac1e9b5e4873b6ed9685a0649a54dcf1a62"
+    },
+    {
+      "name": "CS16-Switch.zip.part018",
+      "size": 8388608,
+      "sha256": "f23d094ba49ddc29335d23b29f9a77538b513d5f3808c0732aabbbea2feb5f0f"
+    },
+    {
+      "name": "CS16-Switch.zip.part019",
+      "size": 8388608,
+      "sha256": "9bbdce1ed2883ea776609c0553631188ba8ed8cdac95011ceca70663f4c34e57"
+    },
+    {
+      "name": "CS16-Switch.zip.part020",
+      "size": 8388608,
+      "sha256": "41e4fb42983c790b0ad557a7f5532f7a10bfd22a17a5d9a2c4b2eec1c1716474"
+    },
+    {
+      "name": "CS16-Switch.zip.part021",
+      "size": 8388608,
+      "sha256": "1ad12744a657d61dfb96e5bc831e5e6110bd386c825ceb919319f72b5418f3b1"
+    },
+    {
+      "name": "CS16-Switch.zip.part022",
+      "size": 7182722,
+      "sha256": "a37e59ef41a3b02ae7991a58413d38f8c3ad0c941e8ad07c8968b3f1d8a5a684"
+    }
+  ]
+}
