@@ -58,7 +58,7 @@ words = [
     0xa8c27bfd, # ldp x29,x30,[sp],#32
     0,          # b original Sys_PrintLog
 ]
-path = b'sdmc:/CS16-debug.log\0'
+path = b'sdmc:/switch/CS16/logs/CS16-debug.log\0'
 mode = b'a\0'
 path_addr = stub+len(words)*4
 mode_addr = path_addr+len(path)

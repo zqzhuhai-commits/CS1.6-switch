@@ -22,7 +22,7 @@ for failure in [False,True]:
         return bytes(x)
     def hook(uc,address,size,unused):
         if address==0x7079a0:
-            assert cstring(uc.reg_read(UC_ARM64_REG_X0))==b'sdmc:/CS16-debug.log'
+            assert cstring(uc.reg_read(UC_ARM64_REG_X0))==b'sdmc:/switch/CS16/logs/CS16-debug.log'
             assert cstring(uc.reg_read(UC_ARM64_REG_X1))==b'a'
             events.append('fopen');uc.reg_write(UC_ARM64_REG_X0,0 if failure else 0x4000000)
         elif address==0x70ff24:
