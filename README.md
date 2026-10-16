@@ -2,6 +2,10 @@
 
 ![CS 1.6 图标](artwork/CS-1.6-icon.jpg)
 
+> **新参考包的地图花屏排查（2026-10-16）**：用户新提供的 Xash3D FWGS 0.20 包可以运行，视频显示部分地图表面异常。现提供 [兼容性测试补丁](graphics-tests/CS16-Switch-Graphics-Compatibility-Test.zip) 与 [安装、比较及回退说明](graphics-tests/README.md)。先测 GPU 同步方案，仍异常再测关闭多重纹理方案。仅修改 `/switch/CS16/cstrike/opengl.cfg`，无需重装 NSP；尚未经过真机验证，不代表已修复。
+>
+> 下文的 v0.1.0-test 下载、入口路径和日志诊断包均属于先前的旧引擎。请勿将旧版 NRO 或旧引擎二进制日志补丁覆盖到这个可运行的新参考包。
+
 基于用户提供的 CS 1.6 数据文件和已发布的 Xash3D Switch CS 引擎整理。包含 Switch NRO 客户端、NSP 前端、手柄配置和本地机器人对战配置。
 
 **状态：v0.1.0-test。尚未经过 Switch 真机验证。**
