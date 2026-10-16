@@ -1,3 +1,5 @@
+> **最新真机反馈（2026-10-16）**：方案 01、02、03 都未消除花屏；`r_drawentities 0` 后不再花屏。新增 [实体渲染隔离测试地图 04](CS16-Switch-HappyValley-Entity-Test04.zip)（[说明](04-solid-entities/README.md)）。新增独立地图 `happyvalley_lt_solid`，保留所有几何和贴图，改用普通不透明实体绘制；这是隔离测试，效果待验证。测试时务必恢复 `r_drawentities 1`。
+
 > **2026-10-16 真机反馈**：方案 01 和 02 在 `happyvalley_lt.bsp`、`happyvalley_lt_fix.bsp` 上仍花屏。新增 [地图纹理兼容测试 03](CS16-Switch-HappyValley-Texture-Test03.zip)（[说明](03-pot-textures/README.md)），只关闭 NPOT 纹理支持，效果待验证。以下 01、02 保留作排查记录。
 
 # 反恐精英 CS 1.6：地图花屏兼容性测试

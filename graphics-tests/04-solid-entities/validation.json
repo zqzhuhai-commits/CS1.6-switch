@@ -1,0 +1,668 @@
+{
+  "source_sha256": "a627baec3edf6430c55328dbe33bf0e0b8594a94b34f5840d57b895f3508b08b",
+  "output_sha256": "8f8cf144f57abaf70e04dd2b53576b0b607f0d1f18207e388df08690220ec3c2",
+  "changed_entity_count": 110,
+  "changes": [
+    {
+      "model": "*4",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3681282
+    },
+    {
+      "model": "*5",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3681402
+    },
+    {
+      "model": "*6",
+      "classname": "func_illusionary",
+      "old_mode": "4",
+      "offset": 3681512
+    },
+    {
+      "model": "*7",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3681639
+    },
+    {
+      "model": "*8",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3681759
+    },
+    {
+      "model": "*9",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3681879
+    },
+    {
+      "model": "*10",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682000
+    },
+    {
+      "model": "*11",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682121
+    },
+    {
+      "model": "*12",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682242
+    },
+    {
+      "model": "*13",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682363
+    },
+    {
+      "model": "*14",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682484
+    },
+    {
+      "model": "*15",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682605
+    },
+    {
+      "model": "*16",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682726
+    },
+    {
+      "model": "*17",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682847
+    },
+    {
+      "model": "*18",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3682968
+    },
+    {
+      "model": "*19",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3683089
+    },
+    {
+      "model": "*20",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3683210
+    },
+    {
+      "model": "*21",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3683331
+    },
+    {
+      "model": "*22",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3687174
+    },
+    {
+      "model": "*23",
+      "classname": "func_tracktrain",
+      "old_mode": "5",
+      "offset": 3687396
+    },
+    {
+      "model": "*24",
+      "classname": "func_tracktrain",
+      "old_mode": "5",
+      "offset": 3687697
+    },
+    {
+      "model": "*25",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3687894
+    },
+    {
+      "model": "*26",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3688015
+    },
+    {
+      "model": "*27",
+      "classname": "func_tracktrain",
+      "old_mode": "5",
+      "offset": 3692738
+    },
+    {
+      "model": "*28",
+      "classname": "func_tracktrain",
+      "old_mode": "5",
+      "offset": 3693036
+    },
+    {
+      "model": "*29",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3693299
+    },
+    {
+      "model": "*30",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3693420
+    },
+    {
+      "model": "*31",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3693541
+    },
+    {
+      "model": "*32",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3693662
+    },
+    {
+      "model": "*33",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3693783
+    },
+    {
+      "model": "*34",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3693904
+    },
+    {
+      "model": "*35",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694025
+    },
+    {
+      "model": "*36",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694146
+    },
+    {
+      "model": "*37",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694267
+    },
+    {
+      "model": "*38",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694388
+    },
+    {
+      "model": "*39",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694509
+    },
+    {
+      "model": "*40",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694630
+    },
+    {
+      "model": "*41",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694751
+    },
+    {
+      "model": "*42",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694872
+    },
+    {
+      "model": "*43",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3694993
+    },
+    {
+      "model": "*44",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3695114
+    },
+    {
+      "model": "*45",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3695235
+    },
+    {
+      "model": "*46",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3695356
+    },
+    {
+      "model": "*47",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3695477
+    },
+    {
+      "model": "*48",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3695598
+    },
+    {
+      "model": "*49",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3695719
+    },
+    {
+      "model": "*50",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3695840
+    },
+    {
+      "model": "*51",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3695961
+    },
+    {
+      "model": "*52",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3696082
+    },
+    {
+      "model": "*53",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3696203
+    },
+    {
+      "model": "*54",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3696324
+    },
+    {
+      "model": "*55",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3696445
+    },
+    {
+      "model": "*56",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3696566
+    },
+    {
+      "model": "*57",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3696687
+    },
+    {
+      "model": "*58",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3696808
+    },
+    {
+      "model": "*59",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3696929
+    },
+    {
+      "model": "*60",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3697050
+    },
+    {
+      "model": "*61",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3697171
+    },
+    {
+      "model": "*62",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3697292
+    },
+    {
+      "model": "*63",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3697413
+    },
+    {
+      "model": "*64",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3697534
+    },
+    {
+      "model": "*65",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3697655
+    },
+    {
+      "model": "*66",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3697776
+    },
+    {
+      "model": "*67",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3697897
+    },
+    {
+      "model": "*68",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698018
+    },
+    {
+      "model": "*69",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698139
+    },
+    {
+      "model": "*70",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698260
+    },
+    {
+      "model": "*71",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698381
+    },
+    {
+      "model": "*72",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698502
+    },
+    {
+      "model": "*73",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698623
+    },
+    {
+      "model": "*74",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698744
+    },
+    {
+      "model": "*75",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698865
+    },
+    {
+      "model": "*76",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3698986
+    },
+    {
+      "model": "*77",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3699107
+    },
+    {
+      "model": "*78",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3699228
+    },
+    {
+      "model": "*80",
+      "classname": "func_door",
+      "old_mode": "5",
+      "offset": 3699949
+    },
+    {
+      "model": "*81",
+      "classname": "func_door",
+      "old_mode": "5",
+      "offset": 3700133
+    },
+    {
+      "model": "*82",
+      "classname": "func_door",
+      "old_mode": "5",
+      "offset": 3700317
+    },
+    {
+      "model": "*83",
+      "classname": "func_door",
+      "old_mode": "5",
+      "offset": 3700501
+    },
+    {
+      "model": "*84",
+      "classname": "func_door",
+      "old_mode": "5",
+      "offset": 3700685
+    },
+    {
+      "model": "*85",
+      "classname": "func_door",
+      "old_mode": "5",
+      "offset": 3700871
+    },
+    {
+      "model": "*86",
+      "classname": "func_door",
+      "old_mode": "5",
+      "offset": 3701057
+    },
+    {
+      "model": "*87",
+      "classname": "func_door",
+      "old_mode": "5",
+      "offset": 3701243
+    },
+    {
+      "model": "*98",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3702753
+    },
+    {
+      "model": "*99",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3702874
+    },
+    {
+      "model": "*100",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3702996
+    },
+    {
+      "model": "*101",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3703118
+    },
+    {
+      "model": "*102",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3703240
+    },
+    {
+      "model": "*103",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3703362
+    },
+    {
+      "model": "*104",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3703484
+    },
+    {
+      "model": "*105",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3703606
+    },
+    {
+      "model": "*106",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3703728
+    },
+    {
+      "model": "*107",
+      "classname": "func_wall",
+      "old_mode": "4",
+      "offset": 3703850
+    },
+    {
+      "model": "*108",
+      "classname": "func_wall",
+      "old_mode": "2",
+      "offset": 3703972
+    },
+    {
+      "model": "*109",
+      "classname": "func_wall",
+      "old_mode": "2",
+      "offset": 3704094
+    },
+    {
+      "model": "*110",
+      "classname": "func_wall",
+      "old_mode": "2",
+      "offset": 3704216
+    },
+    {
+      "model": "*111",
+      "classname": "func_wall",
+      "old_mode": "2",
+      "offset": 3704338
+    },
+    {
+      "model": "*112",
+      "classname": "func_wall",
+      "old_mode": "2",
+      "offset": 3704460
+    },
+    {
+      "model": "*113",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3704816
+    },
+    {
+      "model": "*115",
+      "classname": "func_rotating",
+      "old_mode": "5",
+      "offset": 3705124
+    },
+    {
+      "model": "*117",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3705414
+    },
+    {
+      "model": "*120",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3705697
+    },
+    {
+      "model": "*122",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3706155
+    },
+    {
+      "model": "*123",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3706276
+    },
+    {
+      "model": "*124",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3706397
+    },
+    {
+      "model": "*125",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3706518
+    },
+    {
+      "model": "*126",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3706639
+    },
+    {
+      "model": "*127",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3706760
+    },
+    {
+      "model": "*128",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3706881
+    },
+    {
+      "model": "*129",
+      "classname": "func_wall",
+      "old_mode": "5",
+      "offset": 3707002
+    }
+  ],
+  "validation": "Same file size and BSP header; all 14 non-entity lumps byte-identical"
+}
