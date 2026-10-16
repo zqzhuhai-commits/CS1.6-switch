@@ -1,0 +1,44 @@
+{
+  "original_sha256": "500994445d4df4cd0628ac474a9fcc49d38f9370ebe5fd1ae3a15e9e9d250de9",
+  "patched_sha256": "8d2574f7b17c970cb862061ba926da9511c5b7b9fe1be498a280ed6a849564d0",
+  "size_bytes": 1597408,
+  "changed_bytes": 10,
+  "changes": [
+    {
+      "function": "DrawGLPoly.constprop.0",
+      "virtual_address": "0x1b140",
+      "file_offset": 176448,
+      "before": "20018052",
+      "after": "c0008052"
+    },
+    {
+      "function": "DrawGLPoly",
+      "virtual_address": "0x1fe0c",
+      "file_offset": 196108,
+      "before": "20018052",
+      "after": "c0008052"
+    },
+    {
+      "function": "DrawGLPolyChain",
+      "virtual_address": "0x202b0",
+      "file_offset": 197296,
+      "before": "20018052",
+      "after": "c0008052"
+    },
+    {
+      "function": "DrawGLPolyChain",
+      "virtual_address": "0x20344",
+      "file_offset": 197444,
+      "before": "20018052",
+      "after": "c0008052"
+    },
+    {
+      "function": "R_BlendLightmaps.part.0",
+      "virtual_address": "0x20504",
+      "file_offset": 197892,
+      "before": "20018052",
+      "after": "c0008052"
+    }
+  ],
+  "status": "Unverified on Switch hardware; only polygon primitive arguments changed"
+}

@@ -1,3 +1,5 @@
+> **最新状态（2026-10-16）**：用户反馈方案 01、02、03 以及实体不透明测试 04 均仍花屏；`r_drawentities 0` 能让异常消失。新增 [渲染器测试 05](CS16-Renderer-Test05.zip)（[安装与回退](05-triangle-fan/README.md)），仅替换该参考构建的地图面与光照层图元调用。效果待真机验证，不能视为已确认修复。以下保留此前排查记录。
+
 > **最新真机反馈（2026-10-16）**：方案 01、02、03 都未消除花屏；`r_drawentities 0` 后不再花屏。新增 [实体渲染隔离测试地图 04](CS16-Switch-HappyValley-Entity-Test04.zip)（[说明](04-solid-entities/README.md)）。新增独立地图 `happyvalley_lt_solid`，保留所有几何和贴图，改用普通不透明实体绘制；这是隔离测试，效果待验证。测试时务必恢复 `r_drawentities 1`。
 
 > **2026-10-16 真机反馈**：方案 01 和 02 在 `happyvalley_lt.bsp`、`happyvalley_lt_fix.bsp` 上仍花屏。新增 [地图纹理兼容测试 03](CS16-Switch-HappyValley-Texture-Test03.zip)（[说明](03-pot-textures/README.md)），只关闭 NPOT 纹理支持，效果待验证。以下 01、02 保留作排查记录。
