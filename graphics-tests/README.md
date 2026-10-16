@@ -1,3 +1,5 @@
+> **2026-10-16 真机反馈**：方案 01 和 02 在 `happyvalley_lt.bsp`、`happyvalley_lt_fix.bsp` 上仍花屏。新增 [地图纹理兼容测试 03](CS16-Switch-HappyValley-Texture-Test03.zip)（[说明](03-pot-textures/README.md)），只关闭 NPOT 纹理支持，效果待验证。以下 01、02 保留作排查记录。
+
 # 反恐精英 CS 1.6：地图花屏兼容性测试
 
 适用于用户新提供、能运行的 Xash3D FWGS 0.20 Switch 包，游戏目录为 `/switch/CS16/`。这是定位渲染问题的配置测试，尚未经过 Switch 真机验证，不能保证消除花屏。
