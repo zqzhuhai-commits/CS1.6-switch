@@ -1,0 +1,35 @@
+// Use this file to configure your DEDICATED server. 
+// This config file is executed on server start.
+
+// disable autoaim
+sv_aim 0
+
+// disable clients' ability to pause the server
+pausable 0
+
+// default server name. Change to "Bob's Server", etc.
+hostname "Counter-Strike 1.6 Server"
+
+// maximum client movement speed 
+sv_maxspeed 320
+
+// 20 minute timelimit
+mp_timelimit 20
+
+sv_cheats 1
+
+// load ban files
+exec listip.cfg
+exec banned.cfg
+
+//========Bot自动配置，UI创建局域网房间自动生效========
+bot_enable "1"
+bot_quota "8"                  // 总共8个bot，按需修改
+bot_quota_mode "fill"          // 保持总人数，有人进来自动减少bot
+bot_join_after_player "0"      // 0=你一进地图bot立刻刷出来，不用等人
+bot_difficulty "2"             // 0简单 1普通 2困难 3专家
+mp_autoteambalance "0"         // 关闭自动平衡，不会乱踢bot
+mp_limitteams "0"
+bot_chatter "minimal"
+
+

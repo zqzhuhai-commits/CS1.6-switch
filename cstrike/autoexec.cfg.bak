@@ -1,0 +1,5 @@
+bot_enable "1"
+bot_quota "8"          // 总机器人数量，改成你想要的
+bot_join_after_player "0"  // 0=不用等人，开局直接刷bot；1=你进图bot才进来
+bot_difficulty "2"     // 0简单 1普通 2困难 3专家
+bot_auto_add "1"

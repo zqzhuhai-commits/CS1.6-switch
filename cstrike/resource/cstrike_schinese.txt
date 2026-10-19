@@ -1,0 +1,2035 @@
+"lang"
+{
+//cs1.6汉化制作[CHN]反恐怖精英联盟队长 狼牙 QQ:12581758
+"Language" "schinese"
+"Tokens"
+{
+"Cstrike_Reset_View"		"视角复位"
+"Cstrike_Mouse_Look"		"鼠标查看"
+"Cstrike_Keyboard_Look"		"键盘查看"
+"Cstrike_Standard_Radio"		"标准无线电消息"
+"Cstrike_Group_Radio"		"组队无线电消息"
+"Cstrike_Report_Radio"		"报告无线电消息"
+"Cstrike_Nightvision"		"打开/关闭夜视仪"
+"Cstrike_Menu_Title"		"菜单"
+"Cstrike_Buy_Menu"		"购买菜单"
+"Cstrike_Buy_Primary_Ammo"		"购买主武器弹药 (自选)"
+"Cstrike_Buy_Secondary_Ammo"		"购买副武器弹药 (自选)"
+"Cstrike_Menu_chnbuy1"                  "&DEAGLE 套装"
+"Cstrike_Menu_chnbuy2"                  "&MP5 套装"
+"Cstrike_Menu_chnbuy3"                  "&FAMAS\GALIL 套装"
+"Cstrike_Menu_chnbuy4"                  "&M4A1\AK47 套装"
+"Cstrike_Menu_chnbuy5"                  "&AUG\SG552 套装"
+"Cstrike_Menu_chnbuy6"                  "&AWP 套装"
+"Cstrike_Menu_chnbuy7"                  "&战术盾牌套装"
+"Cstrike_Buy_Equip_Menu"		"购买装备菜单 (自选)"
+"Cstrike_BuyMenu_b1"                     "购买手枪设置"
+"Cstrike_BuyMenu_b11"                    "Glock18"
+"Cstrike_BuyMenu_b12"                    "USP45"
+"Cstrike_BuyMenu_b13"                    "P228"
+"Cstrike_BuyMenu_b14"                    "DesertEagle"
+"Cstrike_BuyMenu_b15"                    "FiveSeven"
+"Cstrike_BuyMenu_b16"                    "Elites"
+"Cstrike_BuyMenu_b2"                     "购买霰弹枪设置"
+"Cstrike_BuyMenu_b21"                     "M3"
+"Cstrike_BuyMenu_b22"                     "XM1014"
+"Cstrike_BuyMenu_b3"                     "购买半自动机枪设置"
+"Cstrike_BuyMenu_b31"                     "Tmp 或 MAC10"
+"Cstrike_BuyMenu_b32"                     "MP5"
+"Cstrike_BuyMenu_b33"                     "UMP45"
+"Cstrike_BuyMenu_b34"                      "P90"
+"Cstrike_BuyMenu_b4"                      "购买步枪设置"
+"Cstrike_BuyMenu_b41"                      "Famas 或 Galil"
+"Cstrike_BuyMenu_b42"                      "AK47 或 M4A1"
+"Cstrike_BuyMenu_b43"                      "Sg552 或 Aug"
+"Cstrike_BuyMenu_b44"                      "Scout"
+"Cstrike_BuyMenu_b45"                      "AWP"
+"Cstrike_BuyMenu_b46"                      "G3sg1 或 Sg550"
+"Cstrike_BuyMenu_b5"                       "购买机关枪设置"
+"Cstrike_BuyMenu_b51"                       "M249"
+"Cstrike_BuyMenu_b8"                      "购买装备设置"
+"Cstrike_BuyMenu_b81"                      "防弹衣"
+"Cstrike_BuyMenu_b82"                      "防弹衣+头盔"
+"Cstrike_BuyMenu_b83"                      "闪光弹"
+"Cstrike_BuyMenu_b84"                      "闪光弹 X 2"
+"Cstrike_BuyMenu_b85"                      "高爆手榴弹"
+"Cstrike_BuyMenu_b86"                      "烟雾弹"
+"Cstrike_BuyMenu_b87"                      "C4拆除钳"
+"Cstrike_BuyMenu_b88"                      "夜视仪"
+"Cstrike_BuyMenu_b89"                      "战术盾牌"
+"Cstrike_BuyMenu_suit"                     "武器套装"
+"Cstrike_BuyMenu_suit_deagle"              "DesertEagle 套装"
+"Cstrike_BuyMenu_suit_shield"              "战术盾牌套装"
+"Cstrike_BuyMenu_suit_mp5"                 "MP5 套装"
+"Cstrike_BuyMenu_suit_famas_galil"         "&FAMAS\GALIL 套装"
+"Cstrike_BuyMenu_suit_m4a1_ak47"           "&M4A1\AK47 套装"
+"Cstrike_BuyMenu_suit_aug_sg552"          "&AUG\SG552 套装"
+"Cstrike_BuyMenu_suit_awp"                "AWP 套装"
+"Cstrike_BuyMenu_suit_all"                "全部装备套装"
+"Cstrike_Change_weapon"                   "快速更换武器"
+"Cstrike_Change_weapon_he"               "高爆手榴弹"
+"Cstrike_Change_weapon_flash"            "闪光弹"
+"Cstrike_Change_weapon_smoke"            "烟雾弹"
+"Cstrike_Change_weapon_c4"               "C4 定时炸弹"
+"Cstrike_rbot"                            "BOT 控制"
+"Cstrike_bot_add"                        "增加一个 BOT"
+"Cstrike_bot_add_many"                   "增加更多 BOT"
+"Cstrike_bot_kick_all"                   "踢出所有 BOT"
+"Cstrike_bot_end"                        "杀死所有 BOT"
+"Cstrike_Menu_Item_0"		"菜单选项 0"
+"Cstrike_Menu_Item_1"		"菜单选项 1"
+"Cstrike_Menu_Item_2"		"菜单选项 2"
+"Cstrike_Menu_Item_3"		"菜单选项 3"
+"Cstrike_Menu_Item_4"		"菜单选项 4"
+"Cstrike_Menu_Item_5"		"菜单选项 5"
+"Cstrike_Menu_Item_6"		"菜单选项 6"
+"Cstrike_Menu_Item_7"		"菜单选项 7"
+"Cstrike_Menu_Item_8"		"菜单选项 8"
+"Cstrike_Menu_Item_9"		"菜单选项 9"
+"Cstrike_Mission_Briefing"		"重新查看任务简介"
+"Cstrike_Fire"		"开火"
+"Cstrike_Weapon_Special_Func"		"武器特殊功能"
+"Cstrike_Drop_Weapon"		"扔掉当前武器"
+"Cstrike_Combat_Title"		"战斗"
+"Cstrike_Select_Team"		"选择队伍"
+"Cstrike_chninfor"                      "Esai CS1.6* 制作:狼牙  测试:傻青 天隼 OoZz 杨森 小俊\n感谢Uingei、P.Star | KeeN、Y2K、火旗枪剑的大力支持！"
+"Cstrike_Corpse_Stay"		"尸体消失的时间"
+"Cstrike_Max_Shells"		"最大弹壳数"
+"Cstrike_Max_Smoke_Puffs"		"最大烟雾效果"
+"Cstrike_Smoke_Quality"		"烟雾弹效果质量"
+"Cstrike_Smoke_Best"		"最佳视觉效果，运行最慢"
+"Cstrike_Smoke_Medium"		"中等质量"
+"Cstrike_Smoke_Worst"		"最差视觉效果，运行最快"
+"Cstrike_Weapon_Alignment"		"武器校准"
+"Cstrike_Left_Handed"		"左手持枪"
+"Cstrike_Right_Handed"		"右手持枪"
+"Cstrike_Buy_Menu_Type"		"购买菜单类型"
+"Cstrike_Old_Style_Menus"		"文字菜单"
+"Cstrike_VGUI_Menus"		"图形菜单"
+"Cstrike_Automatic_Weapon_Switch"		"自动切换到捡起的武器(如果它威力更大)"
+"Cstrike_AutoHelp"		"自动帮助"
+"Cstrike_Timelimit"		"每张地图时间 (分钟)"
+"Cstrike_WinLimit"		"获胜限制 (局)"
+"Cstrike_RoundLimit"		"局数限制 (局)"
+"Cstrike_RoundTime"		"每一局的时间 (分钟)"
+"Cstrike_FreezeTime"		"静止时间 (秒)"
+"Cstrike_BuyTime"		"购买时间 (分钟)"
+"Cstrike_StartMoney"		"起始金钱"
+"Cstrike_Death_Camera_Type"		"死亡视角模式"
+"Cstrike_Spectate_Anyone"		"所有人观看"
+"Cstrike_Spectate_Team_Only"		"只分组观看"
+"Cstrike_Only_First_Person"		"只允许第一人称视角"
+"Cstrike_Fade_To_Black"		"禁用追逐/死亡视角"
+"Cstrike_TK_Punish"		"在下一局中杀死团队杀手"
+"Cstrike_AutoKick"		"踢出懒惰者和团队杀手"
+"Cstrike_Hostage_Penalty"		"踢出杀死(x)个人质的玩家"
+"Cstrike_Allow_Flashlight"		"允许手电筒"
+"Cstrike_Spec_Ter_Score"		"恐怖份子  得分:"
+"Cstrike_Spec_CT_Score"			"反恐精英  得分:"
+"Cstrike_ScoreBoard_Ter"		"恐怖份子"
+"Cstrike_ScoreBoard_CT"		"反恐精英"
+"Cstrike_ScoreBoard_Player"		"%s1    -   %s2 玩家"
+"Cstrike_ScoreBoard_Players"		"%s1    -   %s2 玩家"
+"Cstrike_DEAD"		"死亡"
+"Cstrike_VIP"		"VIP"
+"Cstrike_BOMB"		"炸弹"
+"Cstrike_Cancel"		"&0 取消"
+"Cstrike_CancelLabel"		"取消"
+"Cstrike_OK"		"确认(&O)"
+"Cstrike_Join_Team"		"选择队伍"
+"Cstrike_Terrorist_Forces"		"&1 恐怖份子"
+"Cstrike_CT_Forces"		"&2 反恐精英"
+"Cstrike_VIP_Team"		"&3 VIP"
+"Cstrike_Team_AutoAssign"		"&5 自动分配"
+"Cstrike_Menu_Spectate" 			"&6 观看游戏"
+"Cstrike_Join_Class"		"选择一个类别"
+"Cstrike_Auto_Select"		"&5 自动选择"
+"Cstrike_Terror"		"&1 凤凰战士"
+"Cstrike_L337_Krew"		"&2精英部队"
+"Cstrike_Arctic"		"&3 北极复仇者"
+"Cstrike_Guerilla"		"&4 蝰蛇"
+"Cstrike_Militia"		"地图cs_militia"
+"Cstrike_Urban"		"&1 第6海军陆战队"
+"Cstrike_GSG9"		"&2 德国GSG-9"
+"Cstrike_SAS"		"&3 英国SAS"
+"Cstrike_GIGN"		"&4 法国GIGN"
+"Cstrike_Spetsnaz"		"&5 SPETSNAZ"
+"Cstrike_Terror_Name"		"凤凰战士"
+"Cstrike_Leet_Name"		"ELITE_CREW"
+"Cstrike_Arctic_Name"		"北极复仇者"
+"Cstrike_Guerilla_Name"		"蝰蛇"
+"Cstrike_Militia_Name"		"美国中西部地区游击队"
+"Cstrike_Urban_Name"		"第6海军陆战队"
+"Cstrike_GSG9_Name"		"德国GRENZSCHUTZGRUPPE-9"
+"Cstrike_SAS_Name"		"英国皇家空军SAS"
+"Cstrike_GIGN_Name"		"法国D'INTERVENTION DE LA GENDARMERIE NATIONALE"
+"Cstrike_Spetsnaz_Name"		"SPETSNAZ"
+"Cstrike_Autoselect_Name"		"随机选择角色的外观"
+"Cstrike_Terror_Label"		"为了达到他们的目的不惜杀死阻挡他们的任何人，凤凰战士是最危险的恐怖份子之一。"
+"Cstrike_Leet_Label"		"恐怖组织成员，为了达到其目的不择手段。"
+"Cstrike_Arctic_Label"		"装备精良的恐怖份子。因震惊世界的炸弹事件而闻名。"
+"Cstrike_Guerilla_Label"		"超级恐怖份子，以凶狠残忍而著称。他们制造了一系列残忍的炸弹事件，被国际刑警所通缉。"
+"Cstrike_Militia_Label"		"美国中西部地区游击队是一个右翼极端组织，
+由正式和非正式武装的军事团体组成。
+这个反政府组织是在德州韦科出现僵局之后
+于 1993 年成立。"
+"Cstrike_Urban_Label"		"ST-6(DEVGRU的前身)建立于1980年。针对恐怖行动做
+出快速的反应的特种快速反应部队。"
+"Cstrike_GSG9_Label"		"GSG-9建立于1972年，原本是为了保障1972年的
+德国慕尼黑奥运会的安全。后来发展成为德国
+一只著名的反恐小组。"
+"Cstrike_SAS_Label"		"世界著名的英国SAS小组建立于第二次世界大战期间。他们在二次大战期间，潜入敌人后方执行任务，破坏重要目标。因此而闻名天下。"
+"Cstrike_GIGN_Label"		"法国的反恐怖小组GIGN，建立用来应对突发
+的恐怖事件。虽然这个小组只有不到100人
+的规模，但是却在历次反恐怖的行动中取得
+了一次次辉煌的成绩。"
+"Cstrike_Spetsnaz_Label"		"这些苏军特种部队老兵的主要任务就是：
+获得主要经济和军事基地的情报，
+毁坏或消灭这些经济和军事基地；
+组织破坏和颠覆行动；
+对反抗者采取惩罚行动；建立和训练叛乱部队等。"
+"Cstrike_AutoSelect_Label"		"随机选择角色的外观"
+"Cstrike_Select_Category"		"商品类别"
+"Cstrike_Pistols"		"&1 手枪"
+"Cstrike_Shotguns"		"&2 散弹枪"
+"Cstrike_SubMachineGuns"		"&3 微型冲锋枪"
+"Cstrike_Rifles"		"&4 自动步枪"
+"Cstrike_MachineGuns"		"&5 机关枪"
+"Cstrike_Prim_Ammo"		"&6 主武器弹药"
+"Cstrike_Sec_Ammo"		"&7 副武器弹药"
+"Cstrike_Equipment"		"&8 装备"
+"Cstrike_PistolsLabel"		"购买手枪(副武器)"
+"Cstrike_ShotgunsLabel"		"购买散弹枪(主武器)"
+"Cstrike_SubmachinegunsLabel"		"购买微型冲锋枪(主武器)"
+"Cstrike_RiflesLabel"		"购买自动步枪(主武器)"
+"Cstrike_MachinegunsLabel"		"购买机关枪(主武器)"
+"Cstrike_PrimaryammoLabel"		"为主武器购买弹药"
+"Cstrike_SecammoLabel"		"为副武器购买弹药"
+"Cstrike_EquipmentLabel"		"购买装备"
+"Cstrike_Select_Pistol"		"选择一款手枪"
+"Cstrike_Glock18"		"&1 9X19MM SIDEARM"
+"Cstrike_USP45"		"&2 K&M .45 TACTICAL"
+"Cstrike_P228"		"&3 228 COMPACT"
+"Cstrike_DesertEagle"		"&4 NIGHT HAWK .50C"
+"Cstrike_FiveSeven"		"&5 ES FIVE-SEVEN"
+"Cstrike_Elites"		"&5 .40 DUAL ELITES"
+"Cstrike_m3"		"&1 LEONE 12 GAUGE SUPER"
+"Cstrike_xm1014"		"&2 LEONE YG1265 AUTO SHOTGUN"
+"Cstrike_Tmp"		"&1 SCHMIDT MACHINE PISTOL"
+"Cstrike_MP5"		"&2 K&M SUB-MACHINE GUN"
+"Cstrike_UMP45"		"&3 K&M UMP45"
+"Cstrike_P90"		"&4 ES C90"
+"Cstrike_MAC10"		"&1 INGRAM MAC-10"
+"Cstrike_Famas"		"&1 CLARION 5.56"
+"Cstrike_Scout_CT"		"&2 SCHMIDT SCOUT"
+"Cstrike_Scout_TER"		"&3 SCHMIDT SCOUT"
+"Cstrike_M4A1"		"&3 MAVERICK M4A1 CARBINE"
+"Cstrike_Aug"		"&4 BULLPUP"
+"Cstrike_SG550"		"&5 KRIEG 550 COMMANDO"
+"Cstrike_SG552"		"&4 KRIEG 552"
+"Cstrike_AWP_CT"		"&6 MAGNUM SNIPER RIFLE"
+"Cstrike_AWP_TER"		"&5 MAGNUM SNIPER RIFLE"
+"Cstrike_Galil"		"&1 IDF DEFENDER"
+"Cstrike_AK47"		"&2 AK-47"
+"Cstrike_G3SG1"		"&6 D3/AU-1"
+"Cstrike_M249"		"&1 M249"
+"Cstrike_Kevlar"		"&1 避弹衣"
+"Cstrike_Kevlar_Helmet"		"&2 避弹衣+头盔"
+"Cstrike_Flashbang"		"&3 闪光弹"
+"Cstrike_HE_Grenade"		"&4 高爆手雷"
+"Cstrike_Smoke_Grenade"		"&5 烟雾弹"
+"Cstrike_Defuser"		"&6 拆弹装备"
+"Cstrike_NightVision_Button_CT"		"&7 夜视仪"
+"Cstrike_NightVision_Button_TER"		"&6 夜视仪"
+"Cstrike_Shield"		"&8 防暴盾"
+"CStrike_PriceLabel"		"价格"
+"CStrike_OriginLabel"		"原产国家"
+"CStrike_CalibreLabel"		"口径"
+"CStrike_ClipCapacityLabel"		"载弹量"
+"CStrike_RateOfFireLabel"		"射击距离"
+"CStrike_WeightLoadedLabel"		"重量(载弹)"
+"CStrike_WeightEmptyLabel"		"重量(无弹)"
+"CStrike_ProjectileWeightLabel"		"射出子弹重量"
+"CStrike_MuzzleVelocityLabel"		"子弹出膛速度"
+"CStrike_MuzzleEnergyLabel"		"子弹出膛动能"
+"Cstrike_DescriptionLabel"		"描述"
+"CStrike_GlockPrice"		": $400"
+"CStrike_GlockOrigin"		": 澳大利亚"
+"CStrike_GlockCalibre"		": 9MM PARABELLUM"
+"CStrike_GlockClipCapacity"		": 20 发"
+"CStrike_GlockRateOfFire"		": N/A"
+"CStrike_GlockWeightLoaded"		": 0.9千克"
+"CStrike_GlockProjectileWeight"		": 8 克"
+"CStrike_GlockMuzzleVelocity"		": 1132 英尺/秒"
+"CStrike_GlockMuzzleEnergy"		": 475 焦耳"
+"CStrike_USP45Price"		": $500"
+"CStrike_USP45Origin"		": 德国"
+"CStrike_USP45Calibre"		": .45 ACP"
+"CStrike_USP45ClipCapacity"		": 12 发"
+"CStrike_USP45RateOfFire"		": N/A"
+"CStrike_USP45WeightEmpty"		": 1千克"
+"CStrike_USP45ProjectileWeight"		": 15.2 克"
+"CStrike_USP45MuzzleVelocity"		": 886 英尺/秒"
+"CStrike_USP45MuzzleEnergy"		": 553 焦耳"
+"CStrike_P228Price"		": $600"
+"CStrike_P228Origin"		": 瑞士/德国"
+"CStrike_P228Calibre"		": .357 SIG"
+"CStrike_P228ClipCapacity"		": 13 发"
+"CStrike_P228RateOfFire"		": N/A"
+"CStrike_P228WeightLoaded"		": 1.03千克"
+"CStrike_P228ProjectileWeight"		": 8.1 克"
+"CStrike_P228MuzzleVelocity"		": 1400 英尺/秒"
+"CStrike_P228MuzzleEnergy"		": 600 焦耳"
+"CStrike_DesertEaglePrice"		": $650"
+"CStrike_DesertEagleOrigin"		": 以色列"
+"CStrike_DesertEagleCalibre"		": .50 ACTION EXPRESS"
+"CStrike_DesertEagleClipCapacity"		": 7 发"
+"CStrike_DesertEagleRateOfFire"		": N/A"
+"CStrike_DesertEagleWeightLoaded"		": 1.8千克"
+"CStrike_DesertEagleProjectileWeight"		": 19.4 克"
+"CStrike_DesertEagleMuzzleVelocity"		": 1380 英尺/秒"
+"CStrike_DesertEagleMuzzleEnergy"		": 1650 焦耳"
+"CStrike_FiveSevenPrice"		": $750"
+"CStrike_FiveSevenOrigin"		": 比利时"
+"CStrike_FiveSevenCalibre"		": 5.7 X 28MM"
+"CStrike_FiveSevenClipCapacity"		": 20 发"
+"CStrike_FiveSevenRateOfFire"		": N/A"
+"CStrike_FiveSevenWeightLoaded"		": 0.618千克"
+"CStrike_FiveSevenProjectileWeight"		": 2 克"
+"CStrike_FiveSevenMuzzleVelocity"		": 2345 英尺/秒"
+"CStrike_FiveSevenMuzzleEnergy"		": 465 焦耳"
+"CStrike_ElitesPrice"		": $800"
+"CStrike_ElitesOrigin"		": 意大利"
+"CStrike_ElitesCalibre"		": 9MM PARABELLUM"
+"CStrike_ElitesClipCapacity"		": 15 发"
+"CStrike_ElitesRateOfFire"		": N/A"
+"CStrike_ElitesWeightLoaded"		": 1.15千克"
+"CStrike_ElitesProjectileWeight"		": 8 克"
+"CStrike_ElitesMuzzleVelocity"		": 1280 英尺/秒"
+"CStrike_ElitesMuzzleEnergy"		": 606 焦耳"
+"CStrike_M3Price"		": $1700"
+"CStrike_M3Origin"		": 意大利"
+"CStrike_M3Calibre"		": 12 GAUGE"
+"CStrike_M3ClipCapacity"		": 8 发"
+"CStrike_M3RateOfFire"		": N/A"
+"CStrike_M3WeightEmpty"		": 3.5千克"
+"CStrike_M3ProjectileWeight"		": 3.8 克"
+"CStrike_M3MuzzleVelocity"		": 1250 英尺/秒"
+"CStrike_M3MuzzleEnergy"		": 2429 焦耳"
+"CStrike_XM1014Price"		": $3000"
+"CStrike_XM1014Origin"		": 意大利"
+"CStrike_XM1014Calibre"		": 12 GAUGE"
+"CStrike_XM1014ClipCapacity"		": 7 发"
+"CStrike_XM1014RateOfFire"		": 400 RPM"
+"CStrike_XM1014WeightEmpty"		": 4千克"
+"CStrike_XM1014ProjectileWeight"		": 3.8 克/PELLET"
+"CStrike_XM1014MuzzleVelocity"		": 1250 英尺/秒"
+"CStrike_XM1014MuzzleEnergy"		": 2429 焦耳"
+"CStrike_TMPPrice"		": $1250"
+"CStrike_TMPOrigin"		": 奥地利"
+"CStrike_TMPCalibre"		": 9MM PARABELLUM"
+"CStrike_TMPClipCapacity"		": 30 发"
+"CStrike_TMPRateOfFire"		": 857 RPM"
+"CStrike_TMPWeightEmpty"		": 1.3千克"
+"CStrike_TMPProjectileWeight"		": 8 克"
+"CStrike_TMPMuzzleVelocity"		": 1280 英尺/秒"
+"CStrike_TMPMuzzleEnergy"		": 606 焦耳"
+"CStrike_MP5Price"		": $1500"
+"CStrike_MP5Origin"		": 德国"
+"CStrike_MP5Calibre"		": 9MM PARABELLUM"
+"CStrike_MP5ClipCapacity"		": 30 发"
+"CStrike_MP5RateOfFire"		": 800 RPM"
+"CStrike_MP5WeightEmpty"		": 3.42千克"
+"CStrike_MP5ProjectileWeight"		": 8 克"
+"CStrike_MP5MuzzleVelocity"		": 1132 英尺/秒"
+"CStrike_MP5MuzzleEnergy"		": 637 焦耳"
+"CStrike_Mac10Price"		": $1400"
+"CStrike_Mac10Origin"		": 美国"
+"CStrike_Mac10Calibre"		": .45 ACP"
+"CStrike_Mac10ClipCapacity"		": 30 发"
+"CStrike_Mac10RateOfFire"		": 857 RPM"
+"CStrike_Mac10WeightLoaded"		": 3.82 千克"
+"CStrike_Mac10ProjectileWeight"		": 15.2 克"
+"CStrike_Mac10MuzzleVelocity"		": 919 英尺/秒"
+"CStrike_Mac10MuzzleEnergy"		": 584 焦耳"
+"CStrike_UMP45Price"		": $1700"
+"CStrike_UMP45Origin"		": 德国"
+"CStrike_UMP45Calibre"		": .45 ACP"
+"CStrike_UMP45ClipCapacity"		": 25 发"
+"CStrike_UMP45RateOfFire"		": 600 RPM"
+"CStrike_UMP45WeightLoaded"		": 2.27千克"
+"CStrike_UMP45ProjectileWeight"		": 15.2 克"
+"CStrike_UMP45MuzzleVelocity"		": 1005 英尺/秒"
+"CStrike_UMP45MuzzleEnergy"		": 625 焦耳"
+"CStrike_P90Price"		": $2350"
+"CStrike_P90Origin"		": 比利时"
+"CStrike_P90Calibre"		": .338 LAPUA MAGNUM"
+"CStrike_P90ClipCapacity"		": 50 发"
+"CStrike_P90RateOfFire"		": 900 RPM"
+"CStrike_P90WeightLoaded"		": 3千克"
+"CStrike_P90ProjectileWeight"		": 2 克"
+"CStrike_P90MuzzleVelocity"		": 2345 英尺/秒"
+"CStrike_P90MuzzleEnergy"		": 465 焦耳"
+"CStrike_FamasPrice"		": $2250"
+"CStrike_FamasOrigin"		": 法国"
+"CStrike_FamasCalibre"		": 5.56 NATO"
+"CStrike_FamasClipCapacity"		": 25 发"
+"CStrike_FamasRateOfFire"		": 1100 RPM"
+"CStrike_FamasWeightLoaded"		": 3.40千克"
+"CStrike_FamasProjectileWeight"		": 4 克"
+"CStrike_FamasMuzzleVelocity"		": 2212 英尺/秒"
+"CStrike_FamasMuzzleEnergy"		": 1712 焦耳"
+"CStrike_ScoutPrice"		": $2750"
+"CStrike_ScoutOrigin"		": 奥地利"
+"CStrike_ScoutCalibre"		": 7.62 NATO"
+"CStrike_ScoutClipCapacity"		": 10 发"
+"CStrike_ScoutRateOfFire"		": N/A"
+"CStrike_ScoutWeightEmpty"		": 3.3千克"
+"CStrike_ScoutProjectileWeight"		": 8 克"
+"CStrike_ScoutMuzzleVelocity"		": 2800 英尺/秒"
+"CStrike_ScoutMuzzleEnergy"		": 2200 焦耳"
+"CStrike_AK47Price"		": $2500"
+"CStrike_AK47Origin"		": 苏联"
+"CStrike_AK47Calibre"		": 7.62 NATO"
+"CStrike_AK47ClipCapacity"		": 30 发"
+"CStrike_AK47RateOfFire"		": 600 RPM"
+"CStrike_AK47WeightLoaded"		": 4.79千克"
+"CStrike_AK47ProjectileWeight"		": 7.9 克"
+"CStrike_AK47MuzzleVelocity"		": 2329 英尺/秒"
+"CStrike_AK47MuzzleEnergy"		": 1992 焦耳"
+"CStrike_GalilPrice"		": $2000"
+"CStrike_GalilOrigin"		": 以色列"
+"CStrike_GalilCalibre"		": .308"
+"CStrike_GalilClipCapacity"		": 35 发"
+"CStrike_GalilRateOfFire"		": 675 RPM"
+"CStrike_GalilWeightLoaded"		": 4.35千克"
+"CStrike_GalilProjectileWeight"		": 4 克"
+"CStrike_GalilMuzzleVelocity"		": 2013 英尺/秒"
+"CStrike_GalilMuzzleEnergy"		": 1712	 焦耳"
+"CStrike_M4A1Price"		": $3100"
+"CStrike_M4A1Origin"		": 美国"
+"CStrike_M4A1Calibre"		": 5.56 NATO"
+"CStrike_M4A1ClipCapacity"		": 30 发"
+"CStrike_M4A1RateOfFire"		": 685 RPM"
+"CStrike_M4A1WeightEmpty"		": 3.22千克"
+"CStrike_M4A1ProjectileWeight"		": 4 克"
+"CStrike_M4A1MuzzleVelocity"		": 2900 英尺/秒"
+"CStrike_M4A1MuzzleEnergy"		": 1570 焦耳"
+"CStrike_AugPrice"		": $3500"
+"CStrike_AugOrigin"		": 奥地利"
+"CStrike_AugCalibre"		": 5.56 NATO"
+"CStrike_AugClipCapacity"		": 30 发"
+"CStrike_AugRateOfFire"		": 727 RPM"
+"CStrike_AugWeightLoaded"		": 4.09千克"
+"CStrike_AugProjectileWeight"		": 4 克"
+"CStrike_AugMuzzleVelocity"		": 2900 英尺/秒"
+"CStrike_AugMuzzleEnergy"		": 1570 焦耳"
+"CStrike_SG550Price"		": $4200"
+"CStrike_SG550Origin"		": 瑞士"
+"CStrike_SG550Calibre"		": 5.56 NATO"
+"CStrike_SG550ClipCapacity"		": 30 发"
+"CStrike_SG550RateOfFire"		": N/A"
+"CStrike_SG550WeightEmpty"		": 7.02千克"
+"CStrike_SG550ProjectileWeight"		": 4 克"
+"CStrike_SG550MuzzleVelocity"		": 3100 英尺/秒"
+"CStrike_SG550MuzzleEnergy"		": 1650 焦耳"
+"CStrike_SG552Price"		": $3500"
+"CStrike_SG552Origin"		": 瑞士"
+"CStrike_SG552Calibre"		": 5.56 NATO"
+"CStrike_SG552ClipCapacity"		": 30 发"
+"CStrike_SG552RateOfFire"		": 727 RPM"
+"CStrike_SG552WeightEmpty"		": 3.1千克"
+"CStrike_SG552ProjectileWeight"		": 4 克"
+"CStrike_SG552MuzzleVelocity"		": 2900 英尺/秒"
+"CStrike_SG552MuzzleEnergy"		": 1570 焦耳"
+"CStrike_AWPPrice"		": $4750"
+"CStrike_AWPOrigin"		": 英国"
+"CStrike_AWPCalibre"		": .338 LAPUA MAGNUM"
+"CStrike_AWPClipCapacity"		": 10 发"
+"CStrike_AWPRateOfFire"		": N/A"
+"CStrike_AWPWeightLoaded"		": 6千克"
+"CStrike_AWPProjectileWeight"		": 16.2 克"
+"CStrike_AWPMuzzleVelocity"		": 3000 英尺/秒"
+"CStrike_AWPMuzzleEnergy"		": 7000 焦耳"
+"CStrike_G3SG1Price"		": $5000"
+"CStrike_G3SG1Origin"		": 德国"
+"CStrike_G3SG1Calibre"		": 7.62 NATO"
+"CStrike_G3SG1ClipCapacity"		": 20 发"
+"CStrike_G3SG1RateOfFire"		": N/A"
+"CStrike_G3SG1WeightLoaded"		": 4.41千克"
+"CStrike_G3SG1ProjectileWeight"		": 8 克"
+"CStrike_G3SG1MuzzleVelocity"		": 2800 英尺/秒"
+"CStrike_G3SG1MuzzleEnergy"		": 2200 焦耳"
+"CStrike_M249Price"		": $5750"
+"CStrike_M249Origin"		": 比利时"
+"CStrike_M249Calibre"		": 5.56 PARABELLUM"
+"CStrike_M249ClipCapacity"		": 100 发"
+"CStrike_M249RateOfFire"		": 600 RPM"
+"CStrike_M249WeightLoaded"		": 6千克"
+"CStrike_M249ProjectileWeight"		": 4 克"
+"CStrike_M249MuzzleVelocity"		": 3000 英尺/秒"
+"CStrike_M249MuzzleEnergy"		": 1600 焦耳"
+"Cstrike_KevlarPrice"		": $650"
+"Cstrike_KevlarDescription"		"：避弹衣用于保护身体
+，减少伤害。"
+"Cstrike_KevlarHelmetPrice"		": $1000"
+"Cstrike_KevlarHelmetDescription"		"：避弹衣加上头盔能更好
+的保护身体，减少更多受
+到的伤害。"
+"Cstrike_NightvisionPrice"		": $1250"
+"Cstrike_NightvisionDescription"		"：夜视仪可以让你在黑
+暗的环境中清晰的看到
+周围的情况。"
+"Cstrike_ShieldPrice"		": $2200"
+"Cstrike_ShieldDescription"		"：设置障碍时使用的
+防暴盾，可以阻挡多
+数武器的伤害。"
+"Cstrike_SmokeGrenadePrice"		": $300"
+"Cstrike_SmokeGrenadeDescription"		"：分散敌人的注意力，
+并能够影响对方的视线。
+以便我方能够迅速的通
+过某个区域。"
+"Cstrike_DefuserPrice"		": $200"
+"Cstrike_DefuserDescription"		"：炸弹拆除装备能够加
+快拆除炸弹的过程。"
+"Cstrike_FlashbangPrice"		": $200"
+"Cstrike_FlashbangDescription"		":产生巨大的声音和令人暂时
+致盲的闪光，使敌人暂时
+失去战斗力。在进入某个区
+域之前投向敌人能够产生非
+常好的效果。"
+"Cstrike_HEGrenadePrice"		": $300"
+"Cstrike_HEGrenadeDescription"		":拥有极高爆炸效果的武器
+，能够一定程度的杀伤敌
+人。"
+"Cstrike_Listen_MapName"		"地图"
+"Cstrike_Bot_IncludeBots"		"游戏中包含电脑控制的玩家（机器人）。"
+"Cstrike_Bot_NumberOfBots"		"电脑控制的玩家数量"
+"Cstrike_Bot_Difficulty"		"难度"
+"Cstrike_Bot_Difficulty0"		"简单"
+"Cstrike_Bot_Difficulty1"		"中等"
+"Cstrike_Bot_Difficulty2"		"困难"
+"Cstrike_Bot_Difficulty3"		"专家"
+"CStrike_Bot_JoinAfterPlayer"		"机器人在玩家之后进入"
+"CStrike_Bot_GoRogue"		"机器人能够凶猛的进攻"
+"CStrike_Bot_AllowWeapon"		"机器人能够使用"
+"CStrike_Bot_UsePistols"		"手枪"
+"CStrike_Bot_UseShotguns"		"散弹枪"
+"CStrike_Bot_UseSub"		"微型冲锋枪"
+"CStrike_Bot_UseRifles"		"自动步枪"
+"CStrike_Bot_UseMachineGuns"		"机关枪"
+"CStrike_Bot_UseGrenades"		"手雷"
+"CStrike_Bot_UseSniper"		"狙击枪"
+"CStrike_Bot_UseShield"		"防暴盾"
+"CStrike_Bot_Quota"		"最少机器人数量"
+"CStrike_Bot_NamePrefix"		"机器人名称前缀"
+"CStrike_Bot_JoinTeam"		"机器人所加入团队"
+"Cstrike_Already_Own_Weapon"		"你已经拥有这个武器。"
+"Cstrike_Not_Available"		"在这个地图上无法购买此装备。"
+"Cstrike_HELP"		"帮助"
+"Cstrike_Map_Desc"		"地图描述"
+"Cstrike_Time_Left"		"时间剩余"
+"Cstrike_Adjust_Crosshair"		"调整准星"
+"Cstrike_Use_Left_Hand"		"使用左手持枪"
+"Cstrike_Use_Right_Hand"		"使用右手持枪"
+"Cstrike_CHANGE_TEAM"		"更换团队"
+"Cstrike_TEAM_MESSAGE"		"团队消息"
+"Cstrike_Map_Siege"		"地图cs_siege"
+"Cstrike_take_underground"		"'守住这个地点'"
+"Cstrike_enemy_garage"		"敌人在车库'"
+"Cstrike_rush_hostage_room"		"'强攻人质房间!'"
+"Cstrike_snipers_watch_out"		"'狙击手!小心!'"
+"Cstrike_take_upper_route"		"'选择上面的路线'"
+"Cstrike_train"		"地图de_train"
+"Cstrike_rush_trainyard"		"'强攻列车区域的炸弹点!'"
+"Cstrike_rush_enclosed"		"'强攻围墙里面的炸弹点!'"
+"Cstrike_flank_them"		"'侧面攻击他们!'"
+"Cstrike_bomb_site_secure"		"'炸弹点已经安全!'"
+"Cstrike_lend_me_blaster"		"'帮我啊，混蛋!'"
+"Cstrike_vertigo"		"地图de_vertigo"
+"Cstrike_rush_upper_level"		"'强攻上面路线!'"
+"Cstrike_rush_lower_level"		"'强攻下面路线!'"
+"Cstrike_prodigy"		"地图de_prodigy"
+"Cstrike_rush_to_pipes"		"'强攻管道路线'"
+"Cstrike_rush_to_lab"		"'强攻实验室路线!'"
+"Cstrike_take_the hallway"		"'占领走廊!'"
+"Cstrike_take_the_apc"		"'占领APC路线!'"
+"Cstrike_aztec"		"地图de_aztec"
+"Cstrike_take_bridge"		"'占领吊桥!'"
+"Cstrike_enemy_at_bomb_site"		"'敌人在炸弹点'"
+"Cstrike_rush_to_bomb_site"		"'强攻炸弹点'"
+"Cstrike_take_water_route"		"'占领水下路线!'"
+"Cstrike_inferno"		"地图de_inferno"
+"Cstrike_office"		"地图cs_office"
+"Cstrike_take_back_route"		"'占领后面的路线!'"
+"Cstrike_rush_to_hostages"		"'强攻至人质地点!'"
+"Cstrike_do_it_for_manilov"		"'为了Manilov!'"
+"Cstrike_take_front_route"		"'占领前面路线!'"
+"Cstrike_backalley"		"地图cs_backalley"
+"Cstrike_enemy_overhead"		"'敌人在上面!'"
+"Cstrike_go_you_blaster"		"'上啊，混蛋!'"
+"Cstrike_taking_heavy_fire"		"'猛烈射击啊，混蛋!'"
+"Cstrike_747"		"地图cs_747"
+"Cstrike_rush_the_plane"		"'强攻进入飞机'"
+"Cstrike_meet_in_terminal"		"'在尾部集合'"
+"Cstrike_enemy_outside_plane"		"'敌人在飞机外面'"
+"Cstrike_enemy_in_cargo"		"'敌人在货物区!'"
+"Cstrike_oilrig"		"地图as_oilrig"
+"Cstrike_rush_to_chopper"		"'强攻直升机!'"
+"Cstrike_to_the_elevator"		"'去电梯'"
+"Cstrike_vip_spotted"		"'发现VIP!'"
+"Cstrike_sniper_spotted"		"'发现狙击手'"
+"Cstrike_protect_the_vip"		"'保护VIP'"
+"Cstrike_assault"		"地图cs_assault"
+"Cstrike_rush_the_building"		"'强攻入建筑内!'"
+"Cstrike_take_the_vents"		"'占领排气孔!'"
+"Cstrike_enemy_in_vents"		"'敌人在!'"
+"Cstrike_team_regroup"		"'大家!重新组队!'"
+"Cstrike_nuke"		"地图de_nuke"
+"Cstrike_go_to_main_hall"		"'进入主大厅'"
+"Cstrike_go_to_basement"		"'进入基地'"
+"Cstrike_flank_yard"		"'走侧面的院子'"
+"Cstrike_flank_comm_room"		"'走侧面的Comm房间'"
+"Cstrike_at_entrance_hall"		"'在入口大厅'"
+"Cstrike_cbble"		"地图de_cbble"
+"Cstrike_heading_central_hall"		"'沿着走廊前进'"
+"Cstrike_heading_underpass"		"'沿着地下通道前进'"
+"Cstrike_sniper_in_tower"		"'塔楼有狙击手'"
+"Cstrike_bomb_target_secure"		"'炸弹点安全'"
+"Cstrike_guard_start_area"		"'防守起始区域'"
+"Cstrike_dust"		"地图de_dust"
+"Cstrike_heading_to_hallway"		"'沿着走廊前进'"
+"Cstrike_bomb_a_secure"		"'炸弹点A安全'"
+"Cstrike_bomb_b_secure"		"'炸弹点B安全'"
+"Cstrike_sniper_at_underpass"		"'地下通道有狙击手'"
+"Cstrike_dust2"		"地图de_dust2"
+"Cstrike_heading_to_tunnel"		"'沿着通道前进'"
+"Cstrike_italy"		"地图cs_italy"
+"Cstrike_meet_at_market"		"'到集市集合'"
+"Cstrike_rush_the_house"		"'强攻房子'"
+"Cstrike_head_to_wine_cellar"		"'沿着酒窖前进'"
+"Cstrike_rush_long_passage"		"'强攻长通道'"
+"Cstrike_hostages_rescued"		"'人质已经开始被营救'"
+"Cstrike_estate"		"地图cs_estate"
+"Cstrike_go_to_sewer"		"'去下水道'"
+"Cstrike_enemy_on_first_story"		"'敌人在房屋的第一层'"
+"Cstrike_enemy_on_sec_story"		"'敌人在房屋的第二层'"
+"Cstrike_enemy_in_back"		"'敌人在后方'"
+"Cstrike_enemy_in_front"		"'敌人在前方'"
+"Cstrike_tundra"		"地图as_tundra"
+"Cstrike_use_sec_route"		"'选择第二路线'"
+"Cstrike_use_primary_route"		"'选择第一路线'"
+"Cstrike_rush_to_apc"		"'强攻APC'"
+"Cstrike_meet_at_garage"		"'在车库集合'"
+"Cstrike_meet_front_house"		"'在房间的前面集合'"
+"Cstrike_meet_backyard"		"'在后院集合'"
+"Cstrike_enemy_topside"		"'敌人在上方!'"
+"Cstrike_enemy_sewers"		"'敌人在下水道中!'"
+"Cstrike_Acknowledged"		"'明白'"
+"Cstrike_Negative"		"'不行'"
+"Cstrike_Go"		"'冲啊!'"
+"Cstrike_On_My_Way"		"'我正在路上'"
+"Cstrike_Need_Backup"		"'需要帮助'"
+"Cstrike_DROP_CURRENT_ITEM"		"扔掉当前物品"
+"Cstrike_Bot_Defer"		"机器人跟随玩家路线"
+"Cstrike_Bot_Chatter"		"机器人无线电打开"
+"Cstrike_Bot_chatter_Off"		"关闭"
+"Cstrike_Bot_chatter_Radio"		"标准无线电"
+"Cstrike_Bot_chatter_Minimal"		"最小"
+"Cstrike_Bot_chatter_Normal"		"普通"
+"Cstrike_Random"		"随机"
+"Cstrike_Player_Shadows"		"玩家阴影"
+"Cstrike_Auto_Buy"		"自动购买装备"
+"Career_NewGame"		"&开始游戏反恐精英：零点行动 (&P)"
+"Career_MapPage"		"选择地点"
+"Career_BotPage"		"集合队伍"
+"Career_MapNext"		"集合队伍"
+"Career_BotPrev"		"后退"
+"Career_Cancel"		"取消"
+"Career_Start"		"开始！"
+"Career_BuildTeamRoster"		"集合你的队伍"
+"Career_AutoRoster"		"快速选择队伍："
+"Career_PointsLeft"		"剩余点数"
+"Career_Hired"		"[02_你的队伍]"
+"Career_Pool"		"[01_可使用战士]"
+"Career_RestartConfirmationTitle"		"重新开始职业游戏？"
+"Career_RestartConfirmationText"		"这将会结束当前的职业游戏。
+重新开始吗？"
+"Career_OverwriteConfirmationTitle"		"覆盖档案"
+"Career_OverwriteConfirmationText"		"将要覆盖已经存储的档案。
+是否继续？"
+"Career_Restart"		"重新开始"
+"Career_Surrender"		"放弃"
+"Career_Match_End"		"比赛结束"
+"Career_Match_Win"		"你的队伍取得了胜利！"
+"Career_Match_Lose"		"你的队伍被打败了！"
+"Career_Autosave_Notice"		"游戏已经被自动保存。"
+"Career_ContinueMatch"		"继续"
+"Career_FinishMatch"		"完成"
+"Career_TeamT"		"恐怖份子"
+"Career_TeamCT"		"反恐精英"
+"Career_ImminentVictory"		"Go go go！胜利就在前方！"
+"Career_ImminentDefeat"		"警告！再输一局就会输掉整场比赛！"
+"Career_FriendlyFireOn"		"小心！别让你的武器误伤队友！"
+"Career_EnemyList"		"你必须在游戏中面对%s1名敌人："
+"Career_EnemyListSeparator"		", "
+"Career_TaskJustDone"		"挑战完成。
+还剩余%s1个挑战。"
+"Career_TaskJustDoneSingle"		"挑战完成。
+还剩余一个挑战。"
+"Career_TaskStatusDone"		"你已经完成比赛中的所有挑战"
+"Career_TaskStatusUnfinished"		"还剩余%s1个挑战"
+"Career_TaskStatusUnfinishedSingle"		"还剩余一个挑战"
+"Career_EarnedReputationPoints"		"你获得了额外的声望点数！"
+"Career_NewLocationsAvailable"		"新的地点开放！"
+"Career_AllLocationsComplete"		"
+恭喜你，指挥官！
+
+你已经打败恐怖份子势力为世界赢得了和平。"
+
+"Career_AwardedMedal"		"因为你的英勇的表现而获得了一枚勋章."
+"Career_EasyMedal"		"优秀指挥勋章"
+"Career_NormalMedal"		"铜质徽章"
+"Career_HardMedal"		"银质徽章"
+"Career_ExpertMedal"		"卓著的国防部服役勋章"
+"Career_MedalListTitle"		"[你的奖励]"
+"Career_RoundWin"		"你的队伍赢得了这一局..."
+"Career_RoundLose"		"你的队伍输掉了这一局..."
+"Career_RoundDraw"		"这一局以平局结束"
+"Career_ScoreSoFar"		"分数："
+"Career_RoundWinsCT"		"反恐精英：%s1"
+"Career_RoundWinsT"		"恐怖份子：%s1"
+"Career_TasksColon"		"挑战："
+"Career_Task_kill"		"你必须杀死一个敌人"
+"Career_Task_kill_multi"		"你必须杀死%s2个敌人"
+"Career_Task_killwith"		"你必须杀死敌人%s1"
+"Career_Task_killwith_multi"		"你必须杀死%s2个敌人%s1"
+"Career_Task_killblind"		"你必须杀死被闪光弹致盲的敌人"
+"Career_Task_killblind_multi"		"你必须杀死%s2个被闪光弹致盲的敌人"
+"Career_Task_winfast_multi"		"你必须在%s2秒内赢得一局"
+"Career_Task_headshot"		"你必须使用“爆头”杀死一个敌人"
+"Career_Task_headshot_multi"		"你必须使用“爆头”杀死%s2个敌人"
+"Career_Task_headshotwith"		"你必须使用“爆头”杀死敌人%s1"
+"Career_Task_headshotwith_multi"		"你必须使用“爆头”杀死%s2个敌人 %s1"
+"Career_Task_killall"		"你的队伍至少一次杀死全部敌人"
+"Career_Task_defuse"		"你必须拆除炸弹"
+"Career_Task_plant"		"你必须放置炸弹"
+"Career_Task_rescue"		"你必须营救一个人质"
+"Career_Task_rescue_multi"		"你必须营救%s2个人质"
+"Career_Task_rescueall"		"你必须营救所有的人质"
+"Career_Task_defendhostages"		"你必须保证人质不能被营救"
+"Career_Task_hostagessurvive"		"所有的人质必须生存"
+"Career_Task_survive"		"%s1在这一局中生存"
+"Career_Task_inarow"		"%s1没有死去"
+"Career_Task_Done"		"任务完成："
+"Career_Task_PartialTitle"		"状态："
+"Career_Task_PartialRemaining"		"剩余%s1"
+"Career_Task_PartialMustLive"		"在这一局中生存"
+"Career_Task_PartialIncomplete"		"未完成"
+"Career_Task_Complete"		"完成"
+"Career_GameMenu_SaveGame"		"保存游戏"
+"Career_GameMenu_LoadGame"		"读取游戏"
+"Career_CorruptSaveTitle"		"损坏的游戏存档"
+"Career_CorruptSaveText"		"游戏存档已经损坏，不能够被读取。"
+"Career_TripletNum"		"任期 %s1"
+"Career_Locked"		"锁定"
+"Career_Unlocked"		"解锁"
+"Career_Current"		"当前"
+"Career_JumpTo"		"跳转："
+"Career_MapDescription"		"[02_已选择地点]"
+"Career_MapSelection"		"[01_任期 / 地点]"
+"Career_Map_de_dust_cz_CAPS"		"DUST"
+"Career_Map_cs_office_cz_CAPS"		"OFFICE"
+"Career_Map_de_stadium_cz_CAPS"		"STADIUM"
+"Career_Map_de_prodigy_cz_CAPS"		"PRODIGY"
+"Career_Map_cs_miami_cz_CAPS"		"MIAMI"
+"Career_Map_de_inferno_cz_CAPS"		"INFERNO"
+"Career_Map_de_airstrip_cz_CAPS"		"AIRSTRIP"
+"Career_Map_cs_militia_cz_CAPS"		"MILITIA"
+"Career_Map_de_dust2_cz_CAPS"		"DUST II"
+"Career_Map_de_aztec_cz_CAPS"		"AZTEC"
+"Career_Map_cs_havana_cz_CAPS"		"HAVANA"
+"Career_Map_de_cbble_cz_CAPS"		"COBBLESTONE"
+"Career_Map_de_vostok_cz_CAPS"		"VOSTOK"
+"Career_Map_cs_italy_cz_CAPS"		"ITALY"
+"Career_Map_de_chateau_cz_CAPS"		"CHATEAU"
+"Career_Map_de_fastline_cz_CAPS"		"FASTLINE"
+"Career_Map_de_torn_cz_CAPS"		"TORN"
+"Career_Map_de_truth_cz_CAPS"		"TRUTH"
+"Career_Map_de_piranesi_cz_CAPS"		"PIRANESI"
+"Career_Map_cs_downed_cz_CAPS"		"DOWNED"
+"Career_Map_de_tides_cz_CAPS"		"TIDES"
+"Career_Map_de_dust_cz"		"Dust"
+"Career_Map_cs_office_cz"		"Office"
+"Career_Map_de_stadium_cz"		"Stadium"
+"Career_Map_de_prodigy_cz"		"Prodigy"
+"Career_Map_cs_miami_cz"		"Miami"
+"Career_Map_de_inferno_cz"		"Inferno"
+"Career_Map_de_airstrip_cz"		"Airstrip"
+"Career_Map_cs_militia_cz"		"Militia"
+"Career_Map_de_dust2_cz"		"Dust II"
+"Career_Map_de_aztec_cz"		"Aztec"
+"Career_Map_cs_havana_cz"		"Havana"
+"Career_Map_de_cbble_cz"		"Cobblestone"
+"Career_Map_de_vostok_cz"		"Vostok"
+"Career_Map_cs_italy_cz"		"Italy"
+"Career_Map_de_chateau_cz"		"Chateau"
+"Career_Map_de_fastline_cz"		"Fastline"
+"Career_Map_de_torn_cz"		"Torn"
+"Career_Map_de_truth_cz"		"Truth"
+"Career_Map_de_piranesi_cz"		"Piranesi"
+"Career_Map_cs_downed_cz"		"Downed"
+"Career_Map_de_tides_cz"		"Tides"
+"Career_Play_As_CT"		"反恐精英"
+"Career_Play_As_T"		"恐怖份子"
+"Career_BombDefusalCT"		"
+炸弹拆除战役：
+你的队伍必须防止恐怖份子在炸弹点引
+爆炸弹。拆除已放置的炸弹或者消灭
+所有的敌人就能够获得胜利。"
+"Career_HostageRescueCT"		"营救人质战役：
+恐怖份子拥有几名人质。你必须营救他们
+，并将他们带到安全地点。
+在时间内营救所有的人质或者消灭所
+有的恐怖份子就可以获得胜利。"
+"Career_BombDefusalT"		"
+炸弹拆除战役：
+你的队伍必须在炸弹点引爆炸弹。
+在炸弹点引爆炸弹或者消灭所有的敌人就
+能够获得胜利。"
+"Career_HostageRescueT"		"营救人质战役：
+你的队伍拥有几名人质。你必须阻止
+反恐精英营救他们，并将他们带到安
+全地点。
+在时间内防止反恐精英营救人质或者
+消灭所有的反恐精英就可以获得胜利。"
+"Career_MatchTasksTitle"		"赢得比赛"
+"Career_MatchTasks"		"你的队伍至少要获得%s1局的胜利并且领先
+对手%s2局才能够获得比赛的胜利。"
+"Career_MatchGoodLuck"		"祝你好运！"
+"Career_SkillDesc"		"技巧："
+"Career_TeamDesc"		"合作："
+"Career_AggressionDesc"		"勇敢："
+"Career_LevelDesc0"		"差"
+"Career_LevelDesc1"		"低"
+"Career_LevelDesc2"		"不错"
+"Career_LevelDesc3"		"好"
+"Career_LevelDesc4"		"高"
+"Career_Weapon_scout"		"(配备Schmidt侦察步枪)"
+"Career_Weapon_xm1014"		"(配备Leone YG1265自动散弹枪)"
+"Career_Weapon_mac10"		"(配备Ingram MAC-10)"
+"Career_Weapon_aug"		"(配备Bullpup)"
+"Career_Weapon_ump45"		"(配备K&M UMP45)"
+"Career_Weapon_sg550"		"(配备Krieg 550突击步枪)"
+"Career_Weapon_galil"		"(配备IDF Defender)"
+"Career_Weapon_famas"		"(配备Clarion 5.56)"
+"Career_Weapon_awp"		"(配备Magnum狙击步枪)"
+"Career_Weapon_mp5"		"(配备K&M微型冲锋枪)"
+"Career_Weapon_m249"		"(配备M249)"
+"Career_Weapon_m3"		"(配备Leone 12 guage Super)"
+"Career_Weapon_m4a1"		"(配备Maverick M4A1)"
+"Career_Weapon_tmp"		"(配备Schmidt Machine Pistol)"
+"Career_Weapon_sg552"		"(配备Krieg 552)"
+"Career_Weapon_ak47"		"(配备AK-47)"
+"Career_Weapon_p90"		"(配备ES C90)"
+"Career_Weapon_shield"		"(配备防暴盾)"
+"Career_Weapon_knife"		"(配备刺刀)"
+"Career_Weapon_grenade"		"(配备高爆手雷)"
+"Career_Weapon_g3sg1"		"(配备D3/AU-1)"
+"Career_Weapon_usp"		"(配备 K&K .45 Tactical)"
+"Career_Weapon_glock"		"(配备9x19MM)"
+"Career_Weapon_deagle"		"(配备Night Hawk .50C)"
+"Career_Weapon_p228"		"(配备228 Compact)"
+"Career_Weapon_elite"		"(配备.40 dual elites)"
+"Career_Weapon_fiveseven"		"(配备ES five-seven)"
+"Career_Weapon_any"		"(配备所有武器)"
+"Career_Weapon_pistol"		"(配备手枪)"
+"Career_Weapon_SMG"		"(配备微型冲锋枪)"
+"Career_Weapon_machinegun"		"(配备机关枪)"
+"Career_Weapon_shotgun"		"(配备散弹枪)"
+"Career_Weapon_rifle"		"(配备自动步枪)"
+"Career_Weapon_sniper"		"(配备狙击步枪)"
+"GameUI_DetailTextures"		"质材细节"
+"Cstrike_Tutor_Off"		"关闭"
+"Cstrike_Tutor_Beginner"		"打开"
+"Cstrike_Tutor_Advanced"		"高级"
+"CStrike_Listen_TutorLevel"		"辅导设定"
+"CStrike_Tutor_Enabled"		"允许辅导"
+"Cstrike_Tutor_You_See_Enemy"		"你发现一个敌人。"
+"Cstrike_Tutor_You_See_Friend"		"你发现一个队友。"
+"Cstrike_Tutor_You_See_Enemy_Corpse"		"这是一具敌人的尸体。"
+"Cstrike_Tutor_You_See_Friend_Corpse"		"这是一具队友的尸体。"
+"Cstrike_Tutor_You_see_Breakable"		"这个物品可以被摧毁。
+尝试向它射击！"
+"Cstrike_Tutor_You_Fired_A_Shot"		"你正在开火。"
+"Cstrike_Tutor_You_Should_Reload"		"你的弹药很少了。
+你需要重新为你的武器装子弹。
+（默认R键）"
+"Cstrike_Tutor_You_Are_Out_Of_Ammo"		"你的武器快没有弹药了，建议切换
+到其他武器。
+（默认1，2或者3键）"
+"Cstrike_Tutor_You_Killed_A_Teammate"		"你误杀了一名队友！
+
+刚才被杀的队友：
+%s1"
+
+"Cstrike_Tutor_You_Killed_Player"		"你已经击毙了一个敌人。
+现在还剩余%s1个敌人。
+刚才被杀的敌人：
+%s2"
+
+
+"Cstrike_Tutor_You_Killed_Player_One_left"		"你已经击毙了一个敌人。
+现在只剩余一个敌人了。
+刚才被杀的敌人：
+%s1"
+
+
+"Cstrike_Tutor_You_Killed_Last_Enemy"		"你击毙了最后一个敌人！
+
+刚才被杀的敌人：
+%s1"
+
+"Cstrike_Tutor_You_Killed_Player_Headshot"		"你已经通过“爆头”
+击毙了一个敌人。
+现在还剩余%s1个敌人。
+刚才被杀的敌人：
+%s2"
+
+
+"Cstrike_Tutor_You_Killed_Player_Headshot_One_left"		"你已经通过“爆头”
+击毙了一个敌人。
+现在只剩余一个敌人了。
+刚才被杀的敌人：
+%s1"
+
+
+"Cstrike_Tutor_You_Killed_Last_Enemy_Headshot"		"你通过“爆头”击毙了最后一个敌人！
+
+刚才被杀的敌人：
+%s1"
+
+"Cstrike_Tutor_You_Died"		"你牺牲了。"
+"Cstrike_Tutor_You_Died_Headshot"		"你被人“爆头”了。"
+"Cstrike_Tutor_You_Fell_To_Your_Death"		"你快没血了。
+小心！"
+"Cstrike_Tutor_You_Were_Just_Hurt"		"疼啊！
+小心！"
+"Cstrike_Tutor_You_Have_Been_Shot_At"		"小心！
+有人在向你射击！"
+"Cstrike_Tutor_You_Attacked_Teammate"		"你误伤了一名队友！"
+"Cstrike_Tutor_You_Died_World"		"你快没血了！在悬崖和边界行走的时候要极为小心！"
+"Cstrike_Tutor_Buy_Time_Begin"		"新的一局开始了。
+
+通过“购买”菜单（默认B键）购买武器和装备。
+按“自动购买”键（默认F1）购买装备。"
+
+"Cstrike_Tutor_Teammate_Killed"		"一个队友牺牲！
+你还有%s1个队友。
+刚才被杀的队友：
+%s2"
+
+
+"Cstrike_Tutor_Teammate_Killed_One_left"		"一个队友牺牲！
+你只有一个队友了！
+刚才被杀的队友：
+%s1"
+
+
+"Cstrike_Tutor_Last_Teammate_Killed"		"你最后的队友已经牺牲！
+你现在已经孤身一人...
+刚才被杀的队友：
+%s1"
+
+
+"Cstrike_Tutor_Enemy_Killed"		"一个敌人被击毙。
+还剩余%s1个敌人。
+刚才被杀的敌人：
+%s2"
+
+
+"Cstrike_Tutor_Enemy_Killed_One_Left"		"一个敌人被击毙。
+只剩余一个敌人。
+刚才被杀的敌人：
+%s1"
+
+
+"Cstrike_Tutor_Last_Enemy_Killed"		"最后的敌人已被击毙！
+
+刚才被杀的敌人：
+%s1"
+
+"Cstrike_Tutor_You_Spawned"		"欢迎进入反恐精英！"
+"Cstrike_Tutor_You_See_Loose_Weapon"		"这是一个掉落的武器。
+
+扔掉你手中的武器并走
+在它的上面就可以捡起
+它（默认G）。"
+
+"Cstrike_Tutor_You_See_Loose_Defuser"		"这是一套掉落
+的炸弹拆除装备。"
+"Cstrike_Tutor_You_Are_Blind_From_Flashbang"		"一枚闪光弹将你致盲了！
+
+你的视力将会慢慢恢复..."
+
+"Cstrike_Tutor_You_See_Loose_Bomb_T"		"炸弹掉落在这里。
+
+走到它的上面捡起它，然后走
+到炸弹放置地点放置炸弹。"
+
+"Cstrike_Tutor_You_See_Loose_Bomb_CT"		"炸弹掉落在这里。
+
+防守这个区域防止恐怖份子
+捡起它。"
+
+"Cstrike_Tutor_You_See_Bomb_Carrier_T"		"这个队友带有炸弹。
+
+保护他，以便他能
+够顺利放置炸弹。"
+
+"Cstrike_Tutor_You_See_Bomb_Carrier_CT"		"这个恐怖份子带有炸弹！
+
+击毙他！"
+
+"Cstrike_Tutor_You_See_Planted_Bomb_T"		"炸弹已被安置并会很快爆炸。
+
+防守这个区域防止反恐精英拆除炸弹。"
+
+"Cstrike_Tutor_You_See_Planted_Bomb_CT"		"炸弹已被安置
+并会很快爆炸。
+
+迅速接近炸弹并通过使用键拆除它。
+（默认E键）"
+
+"Cstrike_Tutor_Bomb_Planted_T"		"炸弹已被安置！
+
+确保反恐精英无法拆除它！"
+
+"Cstrike_Tutor_Bomb_Planted_CT"		"炸弹已被安置！
+
+搜寻炸弹点并且在爆炸
+之前拆除它！"
+
+"Cstrike_Tutor_You_Are_Bomb_Carrier"		"你携带有一枚炸弹。
+把它安置在炸弹点！"
+"Cstrike_Tutor_Defuse_Without_Kit"		"购买拆弹工具能够缩短拆弹
+需要的时间..."
+"Cstrike_Tutor_Time_Running_Out_DE_T"		"这一局的时间快要结束！
+
+尽快安置炸弹！"
+
+"Cstrike_Tutor_Time_Running_Out_DE_CT"		"这一局的时间快要结束！
+
+抵挡恐怖份子一段时间就能够获得胜利！"
+
+"Cstrike_Tutor_Bomb_Defused_T"		"
+反恐精英拆除了炸弹！
+你们输掉了这一局。"
+"Cstrike_Tutor_Bomb_Defused_CT"		"
+反恐精英拆除了炸弹！
+你的队伍赢得了这一局的胜利。"
+"Cstrike_Tutor_You_Defused_Bomb"		"你拆除了炸弹，为你的队伍赢得了这一局的胜利。"
+"Cstrike_Tutor_Bomb_Exploded_T"		"炸弹已经爆炸。
+你的队伍赢得了这一局的胜利。"
+"Cstrike_Tutor_Bomb_Exploded_CT"		"炸弹已经爆炸。
+恐怖份子赢得了这一局的胜利。"
+"Cstrike_Tutor_Round_Start_DE_T"		"新的一局已经开始。
+
+在炸弹点引爆炸弹！"
+
+"Cstrike_Tutor_Round_Start_DE_CT"		"新的一局已经开始。
+
+阻止恐怖份子引爆他们的炸弹！"
+
+"Cstrike_Tutor_You_See_Hostage_T"		"这是一个人质。
+
+防止反恐精英营救他。"
+
+"Cstrike_Tutor_You_See_Hostage_CT"		"这是一个人质。
+
+接近他，按下使用键和他通话，他就能
+够跟随你行动。
+（默认E键）"
+
+"Cstrike_Tutor_You_See_Bombsite_T"		"这是炸弹放置地点。
+
+炸弹能够被放置在这里。"
+
+"Cstrike_Tutor_You_See_Bombsite_T_Bomb"		"这是炸弹放置地点。
+
+首先选择炸弹（默认5键），然后按住
+开火键直到炸弹被放置。
+（默认鼠标左键）"
+
+"Cstrike_Tutor_You_See_Bombsite_CT"		"这是炸弹放置地点。
+
+炸弹能够被放置在这里。"
+
+"Cstrike_Tutor_You_Used_Hostage_More_Left"		"人质现在跟随着你。
+
+通过和其他人质说话就可以让他们也跟随着你。"
+
+"Cstrike_Tutor_You_Used_Hostage_No_More_Left"		"人质现在跟随着你。
+
+带领人质到达最近的营救地
+点。"
+
+"Cstrike_Tutor_All_Hostages_Following"		"
+所有的人质都在被护送。
+掩护人质护卫队到达营救地点。"
+"Cstrike_Tutor_Hostage_Rescued_T"		"反恐精英已经
+营救了一名人质！
+
+阻止他们营救其他的人质。"
+
+"Cstrike_Tutor_Hostage_Rescued_CT"		"一个人质被成功营救！
+
+营救出所有的人质就能够获得这一局的胜利！"
+
+"Cstrike_Tutor_You_Rescued_Hostage"		"你已经营救一名人质
+并获得了现金奖励！
+
+营救所有的人质赢得这一局的胜利！"
+
+"Cstrike_Tutor_All_Hostages_Rescued_T"		"反恐精英营救出了
+所有的人质！
+
+你输掉了这一局。"
+
+"Cstrike_Tutor_All_Hostages_Rescued_CT"		"祝贺你！
+所有的人质都已被营救！
+
+你赢得了这一局的胜利。"
+
+"Cstrike_Tutor_You_Damaged_Hostage"		"你射伤了一名人质。
+
+小心！误杀人质将会给你带来损失！"
+
+"Cstrike_Tutor_You_Killed_Hostage"		"你误杀了一个人质！
+
+作为惩罚你将损失
+一定的资金。"
+
+"Cstrike_Tutor_All_Hostages_Dead"		"所有的人质都被误杀！
+
+消灭所有的恐怖份子获得这一局的胜利！"
+
+"Cstrike_Tutor_Time_Running_Out_CS_T"		"这一局的时间快要用尽了！
+
+抵挡反恐精英一段时间
+就能够获得胜利！"
+
+"Cstrike_Tutor_Time_Running_Out_CS_CT"		"这一局的时间快要用尽了！
+
+尽快营救出所有的人质！"
+
+"Cstrike_Tutor_Round_Start_CS_T"		"新的一局已经开始。
+
+阻止反恐精英营救人质！"
+
+"Cstrike_Tutor_Round_Start_CS_CT"		"新的一局已经开始。
+
+锁定人质位置，将他们护送
+到营救地点！"
+
+"Cstrike_Tutor_Round_Over"		"这一局已经结束。"
+"Cstrike_Tutor_Round_Draw"		"这一局结果不分胜负。"
+"Cstrike_Tutor_CT_Win"		"反恐精英赢得
+这一局的胜利！"
+"Cstrike_Tutor_T_Win"		"恐怖份子赢得这一
+局的胜利！"
+"Cstrike_Tutor_Death_Camera_Start"		"你现在是观看者。
+
+你必须等待下一局开始才能回到游戏中。
+通过跳跃键（默认空格键）切换观察模式。
+通过开火键和第二开火键切换所观察的玩家。
+（默认鼠标左右键）"
+
+"Cstrike_Tutor_Buy_Need_Primary"		"你需要购买武器"
+"Cstrike_Tutor_Buy_Need_Primary_Ammo"		"你需要为你的武器
+购买弹药"
+"Cstrike_Tutor_Buy_Need_Secondary_Ammo"		"你需要为你的手枪
+购买弹药"
+"Cstrike_Tutor_Buy_Need_Armor"		"你需要购买避弹衣和头盔"
+"Cstrike_Tutor_Buy_Defuse_Kit"		"你需要购买
+拆弹装备"
+"Cstrike_Tutor_Buy_Grenades"		"你需要购买一些
+手雷"
+"Cstrike_TutorState_Looking_For_Hostage"		"搜寻人质"
+"Cstrike_TutorState_Escorting_Hostage"		"护卫人质到达营救地点"
+"Cstrike_TutorState_Following_Hostage_Escort"		"跟随并保护人质"
+"Cstrike_TutorState_Moving_To_Bombsite"		"防守炸弹放置地点"
+"Cstrike_TutorState_Looking_For_Bomb_Carrier"		"锁定携带炸弹的恐怖份子"
+"Cstrike_TutorState_Guarding_Loose_Bomb"		"守护掉落的炸弹"
+"Cstrike_TutorState_Defusing_Bomb"		"拆除炸弹"
+"Cstrike_TutorState_Guarding_Hostage"		"守护人质"
+"Cstrike_TutorState_Moving_To_Intercept_Enemy"		"拦截敌人"
+"Cstrike_TutorState_Looking_For_Hostage_Escort"		"找到人质护卫"
+"Cstrike_TutorState_Attacking_Hostage_Escort"		"攻击人质护卫"
+"Cstrike_TutorState_Escorting_Bomb_Carrier"		"保护携带炸弹的队友"
+"Cstrike_TutorState_Moving_To_Bomb_Site"		"确保炸弹放置地点安全"
+"Cstrike_TutorState_Planting_Bomb"		"放置炸弹"
+"Cstrike_TutorState_Guarding_Bomb"		"守卫炸弹"
+"Cstrike_TutorState_Looking_For_Loose_Bomb"		"搜寻掉落的炸弹"
+"Cstrike_TutorState_Running_Away_From_Ticking_Bomb"		"逃离炸弹位置"
+"Cstrike_TutorState_Buy_Time"		"购买武器和装备"
+"Cstrike_TutorState_Waiting_For_Start"		"等待这一局开始..."
+"Cstrike_Tutor_Current_Location"		"当前位置：%s1"
+"Cstrike_Tutor_Hint_1"		"敌人能够听到你跑步时发出的声音。
+按住步行键（默认Shift）就能够安静的行走..."
+"Cstrike_Tutor_Hint_2"		"跳跃将会减慢你的移动
+速度并降低射击精度。"
+"Cstrike_Tutor_Hint_3"		"游戏中的多数物品都可以被摧
+毁，包括窗户、木板和箱子。"
+"Cstrike_Tutor_Hint_4"		"和你的队友一起行动将会比你单
+独行动有效的多。"
+"Cstrike_Tutor_Hint_5"		"按住TAB键查看游戏的状态。"
+"Cstrike_Tutor_Hint_10"		"武器不是完美的—它在开火的时候会产生后坐
+力。这种后坐力将会影响后面连续发射子弹的
+命中率。暂停一段时间射击将会恢复射击精度。"
+"Cstrike_Tutor_Hint_11"		"站立和蹲下能够保证较高的命中率。"
+"Cstrike_Tutor_Hint_12"		"击中敌人的头部会直接杀死
+对方，这就是“爆头”。"
+"Cstrike_Tutor_Hint_13"		"使用狙击枪时必须站立或者蹲下
+才能保证命中率。"
+"Cstrike_Tutor_Hint_14"		"很多武器都拥有“第二开火键”可
+以使用瞄准器、消音器或切换连发模式。
+（默认鼠标右键）"
+
+"Cstrike_Tutor_Hint_15"		"
+弹药管理也是非常重要的。如果你的弹药耗尽的话，那么你就会陷入麻烦。
+记住在空暇的时间重新装填你的武器。
+但是不恰当的时间装填武器也将会是致命的。"
+
+
+"Cstrike_Tutor_Hint_20"		"Magnum狙击步枪非常的强大，它可以在大多数情
+况下一发子弹就能杀死敌人。但是在近战中，不用
+狙击镜想击中敌人几乎是不可能的。"
+
+"Cstrike_Tutor_Hint_21"		"Schmidt Scout是一个很有挑战性的武器，
+它价格低廉，但是杀伤力低——
+
+除非你拥有极强的“爆头”能力。"
+
+"Cstrike_Tutor_Hint_22"		"YG1265自动散弹枪在近战中十分的强大有效。
+
+但是，远程射击就不如近战那么完美了。"
+
+"Cstrike_Tutor_Hint_23"		"特制的M4A1是一种强大而精确的步枪。
+
+使用第二开火键能够加装消音器，
+使得它成为一种偷袭武器。"
+
+"Cstrike_Tutor_Hint_24"		"CV－47是一种超强的武器。
+
+虽然因为过大的后坐力导致连射性能不佳，
+但是它精密的点射还是使得它成为最受欢迎的武器之一。"
+
+"Cstrike_Tutor_Hint_25"		"Night Hawk .50C是名副其实的“手中重炮”。
+
+它能够有效的压制敌人。
+
+但是它的弹甲载弹量却很少。"
+
+
+"Cstrike_Tutor_Hint_26"		"
+防暴盾是当代高科技技术的一个产物。
+如果你装备它（按住第二开火键）并隐蔽在它的后面，你可以抵挡部分的伤害。"
+
+
+"Cstrike_Tutor_Hint_30"		"拆弹工具能够大大缩短拆除炸弹
+的时间。"
+"CStrike_Tutor_Hint_31"		"要想使用手雷，需要首先装备它（默认4键），
+然后点击开火键（默认鼠标左键）。
+
+要想投掷手雷，就要按住开火键，瞄准，然后释放。"
+
+
+"CStrike_Tutor_Hint_32"		"“闪光弹”能够致盲注视爆炸区域的所有人。
+
+注意－这包括你的队友和你自己。"
+
+"Cstrike_Tutor_Hint_33"		"在闪光弹爆炸的时候尽量让你的视野
+远离爆炸区域，这样会降低致盲效果。"
+"Cstrike_Tutor_Hint_34"		"烟雾弹能够制造一场烟雾来掩护你的行动。
+
+烟雾弹是对付狙击手的有效装备。"
+
+"Cstrike_Tutor_Hint_40"		"你的无线电允许你向队友传递诸如：“跟着我”，
+“顶住”或者“需要帮助”等信息。
+
+要想发送这些信息，需要使用无线电键。（默认键是z,x和c），然后再选择你所需要讲的话语。"
+
+"Cstrike_Tutor_Hint_50"		"左上方的一个绿色圆圈就是你的雷达。
+
+它显示了你的队友的位置和你前进的方向。如果圆点是出现在了12点的位置，那么说明你的队友就是在你的正前方。反之，就是在你的"
+
+
+"Cstrike_Tutor_Hint_51"		"在你的雷达画面上，有一个“T字”的格线来
+区别队友相对于你的位置。
+
+一个T形的格线就是代表你的队友是在你的前方。而一个倒过来的T形格线就是代表队友在你后方。"
+
+"Cstrike_Tutor_Hint_52"		"如果你的队友在讲话，那么
+他的位置将会在雷达上以橙色的亮点闪烁。"
+"Cstrike_Tutor_Hint_53"		"如果你是反恐精英，人质的位置
+将会在你的雷达上以蓝色的亮点闪烁。"
+"Cstrike_Tutor_Hint_60"		"多数炸弹拆除地图不只有一个炸弹放置地点..."
+"Cstrike_Tutor_Hint_61"		"拆除炸弹能确保你取得这一局的胜利，不管那时候还有多少敌人活着。"
+"Cstrike_Tutor_Hint_70"		"营救人质地图通常不只有一个
+营救地点..."
+"Cstrike_Tutor_Hint_71"		"通过使用键（默认E）和他们通话，并能够获得一
+定的现金奖励！"
+"Cstrike_Tutor_Hint_72"		"杀死一名人质将会给你的资金造成损失。
+
+不要去伤害他们。"
+
+"Cstrike_Tutor_Hint_73"		"营救一名人质将会获得现金奖励！"
+"Cstrike_TutorState_Undefined"		" "
+"Cstrike_TitlesTXT_AK47"		"AK-47"
+"Cstrike_TitlesTXT_SG552"		"Krieg 552 突击步枪"
+"Cstrike_TitlesTXT_M4A1"		"M4A1自动步枪"
+"Cstrike_TitlesTXT_Famas"		"Clarion 5.56"
+"Cstrike_TitlesTXT_Galil"		"IDF Defender"
+"Cstrike_TitlesTXT_Aug"		"Bullpup"
+"Cstrike_TitlesTXT_Scout"		"Schmidt Scout"
+"Cstrike_TitlesTXT_ArcticWarfareMagnum"		"Magnum 狙击步枪"
+"Cstrike_TitlesTXT_G3SG1"		"D3/AU-1 半自动狙击步枪"
+"Cstrike_TitlesTXT_SG550"		"Krieg 550 突击步枪"
+"Cstrike_TitlesTXT_USP45"		"K&M .45 Tactical"
+"Cstrike_TitlesTXT_Glock18"		"9X19mm Sidearm"
+"Cstrike_TitlesTXT_DesertEagle"		"Night Hawk .50C"
+"Cstrike_TitlesTXT_P228"		"228 Compact"
+"Cstrike_TitlesTXT_Beretta96G"		".40 Dual Elites"
+"Cstrike_TitlesTXT_FiveSeven"		"ES Five-Seven"
+"Cstrike_TitlesTXT_Super90"		"Leone 12 Gauge Super"
+"Cstrike_TitlesTXT_XM1014"		"Leone YG1265自动散弹枪"
+"Cstrike_TitlesTXT_mp5navy"		"K&M 微型冲锋枪"
+"Cstrike_TitlesTXT_tmp"		"Schmidt Machine Pistol"
+"Cstrike_TitlesTXT_FNP90"		"ES C90"
+"Cstrike_TitlesTXT_Mac10"		"Ingram Mac-10"
+"Cstrike_TitlesTXT_UMP45"		"K&M UMP45"
+"Cstrike_TitlesTXT_M249"		"ES M249 Para"
+"Cstrike_TitlesTXT_Krieg552"		"Krieg 552"
+"Cstrike_TitlesTXT_M4A1_Short"		"M4A1"
+"Cstrike_TitlesTXT_Schmidt"		"Schmidt"
+"Cstrike_TitlesTXT_Magnum"		"Magnum
+"
+"Cstrike_TitlesTXT_D3AU1"		"D3AU1"
+"Cstrike_TitlesTXT_Krieg550"		"Krieg 550"
+"Cstrike_TitlesTXT_KM45Tactical"		"K&M .45"
+"Cstrike_TitlesTXT_Sidearm9X19mm"		"9X19mm"
+"Cstrike_TitlesTXT_NightHawk"		"Night Hawk"
+"Cstrike_TitlesTXT_P228Compact"		"228"
+"Cstrike_TitlesTXT_Dual40"		".40 Dual"
+"Cstrike_TitlesTXT_ESFiveSeven"		"Five-Seven"
+"Cstrike_TitlesTXT_Leone12"		"12 Gauge"
+"Cstrike_TitlesTXT_AutoShotgun"		"Auto Shotgun"
+"Cstrike_TitlesTXT_SubMachineGun"		"SMG"
+"Cstrike_TitlesTXT_SchmidtMP"		"Schmidt MP"
+"Cstrike_TitlesTXT_ESC90"		"ES C90"
+"Cstrike_TitlesTXT_Mac10_Short"		"Mac-10"
+"Cstrike_TitlesTXT_KMUMP45"		"K&M UMP45"
+"Cstrike_TitlesTXT_ESM249"		"ES M249"
+"Cstrike_TitlesTXT_TEAMS"		"队伍"
+"Cstrike_TitlesTXT_PLAYERS"		"玩家"
+"Cstrike_TitlesTXT_CLASS"		"等级"
+"Cstrike_TitlesTXT_SCORE"		"得分"
+"Cstrike_TitlesTXT_DEATHS"		"死亡次数"
+"Cstrike_TitlesTXT_LATENCY"		"网络延迟"
+"Cstrike_TitlesTXT_VOICE"		"声音"
+"Cstrike_TitlesTXT_Menu_OK"		"确定"
+"Cstrike_TitlesTXT_Menu_Cancel"		"取消"
+"Cstrike_TitlesTXT_Menu_Spectate"		"观看"
+"Cstrike_TitlesTXT_Team_AutoAssign"		"自动指定"
+"Cstrike_TitlesTXT_Title_SelectYourTeam"		"选择你的队伍"
+"Cstrike_TitlesTXT_Target_Bombed"		"已经成功炸毁目标!"
+"Cstrike_TitlesTXT_VIP_Escaped"		"VIP已经逃脱了!"
+"Cstrike_TitlesTXT_VIP_Assassinated"		"VIP被刺杀了!"
+"Cstrike_TitlesTXT_Terrorists_Escaped"		"恐怖份子逃脱了!"
+"Cstrike_TitlesTXT_CTs_PreventEscape"		"反恐精英成功地阻止了大部分恐怖份子的逃跑!"
+"Cstrike_TitlesTXT_Escaping_Terrorists_Neutralized"		"试图逃跑的恐怖份子都被压制住了!"
+"Cstrike_TitlesTXT_Bomb_Defused"		"炸弹成功地被拆除!"
+"Cstrike_TitlesTXT_CTs_Win"		"反恐精英获得胜利!"
+"Cstrike_TitlesTXT_Terrorists_Win"		"恐怖份子获得胜利!"
+"Cstrike_TitlesTXT_Round_Draw"		"平局!"
+"Cstrike_TitlesTXT_All_Hostages_Rescued"		"所有人质都被营救!"
+"Cstrike_TitlesTXT_Target_Saved"		"目标被成功拯救!"
+"Cstrike_TitlesTXT_Hostages_Not_Rescued"		"人质还没有被营救!"
+"Cstrike_TitlesTXT_Terrorists_Not_Escaped"		"恐怖份子没有逃脱掉!"
+"Cstrike_TitlesTXT_VIP_Not_Escaped"		"VIP没有逃离掉!"
+"Cstrike_TitlesTXT_Cannot_Buy_This"		"你不能购买这个物品!"
+"Cstrike_TitlesTXT_Not_Enough_Money"		"你没有足够的资金!"
+"Cstrike_TitlesTXT_Weapon_Not_Available"		"你不能购买这个物品!"
+"Cstrike_TitlesTXT_Already_Have_Kevlar"		"你已经拥有避弹衣!"
+"Cstrike_TitlesTXT_Already_Have_Kevlar_Helmet"		"你已经拥有避弹衣和头盔!"
+"Cstrike_TitlesTXT_DEAD"		"阵亡"
+"Cstrike_TitlesTXT_Game_kicked"		"踢除 %s1"
+"Cstrike_TitlesTXT_Hint_lead_hostage_to_rescue_point"		"将人质带到营救地点。你可以再次按下使用键来让人质停止跟随你。"
+"Cstrike_TitlesTXT_Need_backup"		"需要支援。"
+"Cstrike_TitlesTXT_Title_sas"		"UK特别空中部队"
+"Cstrike_TitlesTXT_Unassigned"		"未分配"
+"Cstrike_ReBuy"		"重新购买先前的装备"
+"Cstrike_TitlesTXT_Accept_All_Messages"		"现在接受所有的文字信息。"
+"Cstrike_TitlesTXT_Accept_Radio"		"现在接受无线电信息。"
+"Cstrike_TitlesTXT_Affirmative"		"好的。"
+"Cstrike_TitlesTXT_Alias_Not_Avail"		"对于你的队伍来说还不能购买\"%s1\"。"
+"Cstrike_TitlesTXT_All_VIP_Slots_Full"		"所有的5个VIP空位都已经满了，请稍后再试。"
+"Cstrike_TitlesTXT_Already_Have_One"		"你已经有一个了！"
+"Cstrike_TitlesTXT_Arctic_Avengers"		"北极复仇者"
+"Cstrike_TitlesTXT_Auto_Select"		"自动选择"
+"Cstrike_TitlesTXT_Auto_Team_Balance_Next_Round"		"*** 下一局会根据势力对比自动平衡双方力量 ***"
+"Cstrike_TitlesTXT_BOMB"		"炸弹"
+"Cstrike_TitlesTXT_Banned_For_Killing_Teammates"		"因为你杀死了很多的队友，所以你被服务器禁止了。"
+"Cstrike_TitlesTXT_Bomb_Defusal_Kit"		"炸弹拆除装备"
+"Cstrike_TitlesTXT_Bomb_Planted"		"炸弹已被安置！"
+"Cstrike_TitlesTXT_Buy_equipment"		"购买装备"
+"Cstrike_TitlesTXT_Buy_machineguns"		"购买机关枪"
+"Cstrike_TitlesTXT_Buy_pistols"		"购买手枪"
+"Cstrike_TitlesTXT_Buy_prim_ammo"		"购买主武器弹药"
+"Cstrike_TitlesTXT_Buy_rifles"		"购买自动步枪"
+"Cstrike_TitlesTXT_Buy_sec_ammo"		"购买副武器弹药"
+"Cstrike_TitlesTXT_Buy_shotguns"		"购买散弹枪"
+"Cstrike_TitlesTXT_Buy_smgs"		"购买微型冲锋枪"
+"Cstrike_TitlesTXT_C4_Activated_At_Bomb_Spot"		"C4炸弹必须放置在指定地点。"
+"Cstrike_TitlesTXT_C4_Arming_Cancelled"		"炸弹必须被放置在指定地点。"
+"Cstrike_TitlesTXT_C4_Defuse_Must_Be_On_Ground"		"你必须站在地上才能拆除炸弹。"
+"Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot"		"炸弹必须被放置在指定地点。"
+"Cstrike_TitlesTXT_C4_Plant_Must_Be_On_Ground"		"你必须站在地上才能放置炸弹。"
+"Cstrike_TitlesTXT_CAM_OPTIONS"		"镜头选项"
+"Cstrike_TitlesTXT_Cannot_Be_Spectator"		"你不能成为一个观看者。"
+"Cstrike_TitlesTXT_Defusal_Kit"		"炸弹拆除装备"
+"Cstrike_TitlesTXT_L337_Krew"		"精英部队"
+"Cstrike_TitlesTXT_Negative"		"不行。"
+"Cstrike_TitlesTXT_Title_select_category_of_purchase"		"选择所要购买的类别"
+"Cstrike_TitlesTXT_Title_terrorist_model_selection"		"恐怖份子模型选择"
+"Cstrike_TitlesTXT_Unmuted"		"你屏蔽了%s1。"
+"Cstrike_BuyMenuRebuy"		"&R 重新购买先前的装备"
+"Cstrike_BuyMenuAutobuy"		"&A 自动购买"
+"Career_EndRound"		"&放弃这一局"
+"Career_EndRoundText"		"你确实想放弃这一局吗？"
+"Career_New"		"新建个人资料"
+"Career_Resume"		"返回选择的个人资料"
+"Career_Profile"		"[选择档案]"
+"Career_NewProfile"		"创建档案"
+"Career_PlayerName"		"玩家名字"
+"Career_EnableTutor"		"启动辅导功能"
+"Career_FinalScore"		"最终得分"
+"Career_Weapon_hegren"		"带有高爆手雷"
+"Career_Weapon_elites"		"带有.40 dual elites"
+"Cstrike_TitlesTXT_All_Teams_Full"		"所有的队伍人数都已经满了！"
+"Cstrike_TitlesTXT_CT_Forces"		"反恐精英"
+"Cstrike_TitlesTXT_CT_cant_buy"		"在这个地图上，反恐精英不能购买任何物品！"
+"Cstrike_TitlesTXT_CTs_Full"		"反恐精英小组的人数已满!"
+"Cstrike_TitlesTXT_Cannot_Carry_Anymore"		"你不能再携带任何东西了。"
+"Cstrike_TitlesTXT_Cannot_Switch_From_VIP"		"你是VIP!你现在不能切换自己的角色！"
+"Cstrike_TitlesTXT_Cannot_Vote_Map"		"你不能在3分钟内投票选择别的地图"
+"Cstrike_TitlesTXT_Cannot_Vote_Need_More_People"		"你不能自己给自己选择的地图投票！"
+"Cstrike_TitlesTXT_Cannot_Vote_With_Less_Than_Three"		"你不能进行投票，因为你的队伍不满三个人"
+"Cstrike_TitlesTXT_Cant_buy"		"%s1秒已经过去。
+你不能再购买任何东西。"
+"Cstrike_TitlesTXT_Class_descr_not_avail"		"没有等级描述信息。"
+"Cstrike_TitlesTXT_Command_Not_Available"		"在这个位置该命令不可用。"
+"Cstrike_TitlesTXT_Cover_me"		"掩护我！"
+"Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon"		"你已经拥有该武器。"
+"Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit"		"利用炸弹拆除装备拆除炸弹。"
+"Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit"		"正在没有炸弹拆除装备的情况下拆除炸弹。"
+"Cstrike_TitlesTXT_Enemy"		"敌人"
+"Cstrike_TitlesTXT_Enemy_down"		"敌人被击毙。"
+"Cstrike_TitlesTXT_Enemy_spotted"		"发现敌人。"
+"Cstrike_TitlesTXT_Equipment"		"装备"
+"Cstrike_TitlesTXT_Fire_in_the_hole"		"手雷！
+"
+"Cstrike_TitlesTXT_Flashbang"		"闪光弹"
+"Cstrike_TitlesTXT_Follow_me"		"跟着我！"
+"Cstrike_TitlesTXT_Friend"		"队友"
+"Cstrike_TitlesTXT_GAMESAVED"		"保存"
+"Cstrike_TitlesTXT_GIGN"		"GIGN"
+"Cstrike_TitlesTXT_GSG_9"		"GSG-9"
+"Cstrike_TitlesTXT_Game_Commencing"		"游戏连接中！"
+"Cstrike_TitlesTXT_Game_added_position"		"你已经被加入到5个中第%s1的位置"
+"Cstrike_TitlesTXT_Game_bomb_drop"		"%s1扔掉了炸弹"
+"Cstrike_TitlesTXT_Game_bomb_pickup"		"%s1捡起了炸弹"
+"Cstrike_TitlesTXT_Game_connected"		"%s1连接上来。"
+"Cstrike_TitlesTXT_Game_disconnected"		"%s1离开游戏"
+"Cstrike_TitlesTXT_Game_idle_kick"		"%s1空闲了太多的时间而被踢出"
+"Cstrike_TitlesTXT_Game_in_position"		"你现在已经在5个中第%s1的位置"
+"Cstrike_TitlesTXT_Game_join_ct"		"%s1 加入反恐精英小组"
+"Cstrike_TitlesTXT_Game_join_ct_auto"		"%s1加入到反恐精英小组（自动）"
+"Cstrike_TitlesTXT_Game_join_terrorist"		"%s1 加入恐怖份子小组"
+"Cstrike_TitlesTXT_Game_join_terrorist_auto"		"%s1加入到恐怖份子小组（自动）"
+"Cstrike_TitlesTXT_Game_no_timelimit"		"* 没有时间限制 *"
+"Cstrike_TitlesTXT_Game_radio"		"%s1 (无线电): %s2"
+"Cstrike_TitlesTXT_Game_required_votes"		"需要更换新地图所需要的投票数量= %s1"
+"Cstrike_TitlesTXT_Game_scoring"		"只有在双方都有队员的情况下才会开始计分"
+"Cstrike_TitlesTXT_Game_teammate_attack"		"%s1攻击了一个队友"
+"Cstrike_TitlesTXT_Game_teammate_kills"		"杀死的队员人数:3个中的 %s1个"
+"Cstrike_TitlesTXT_Game_timelimit"		"剩余的时间：%s1:%s2"
+"Cstrike_TitlesTXT_Game_unknown_command"		"未知的命令：%s1"
+"Cstrike_TitlesTXT_Game_vote_cast"		"对于玩家 # %s1进行否决投票"
+"Cstrike_TitlesTXT_Game_vote_not_yourself"		"你不能为踢除自己而投票！"
+"Cstrike_TitlesTXT_Game_vote_player_not_found"		"没有找到玩家 # %s1 "
+"Cstrike_TitlesTXT_Game_vote_players_on_your_team"		"你只能给自己队伍上的人投票"
+"Cstrike_TitlesTXT_Game_vote_usage"		"使用方法：vote <id>"
+"Cstrike_TitlesTXT_Game_voted_for_map"		"你投票选择地图 # %s1"
+"Cstrike_TitlesTXT_Game_votemap_usage"		"使用方法:  votemap <id>"
+"Cstrike_TitlesTXT_Game_will_restart_in"		"游戏会在%s1 %s2 后重新开始"
+"Cstrike_TitlesTXT_Get_in_position_and_wait"		"守好自己的位置并等待我的命令。"
+"Cstrike_TitlesTXT_Get_out_of_there"		"快离开那里，因为炸弹就要爆炸！"
+"Cstrike_TitlesTXT_Go_go_go"		"Go go go！"
+"Cstrike_TitlesTXT_Got_bomb"		"你捡起了炸弹。"
+"Cstrike_TitlesTXT_Got_defuser"		"你捡起了炸弹拆除装备！"
+"Cstrike_TitlesTXT_Guerilla_Warfare"		"游击作战"
+"Cstrike_TitlesTXT_HE_Grenade"		"高爆手雷"
+"Cstrike_TitlesTXT_Health"		"生命值"
+"Cstrike_TitlesTXT_High_Explosive_Grenade"		"高爆手雷"
+"Cstrike_TitlesTXT_Hint_cannot_play_because_tk"		"你不能进行这一局的游戏，因为上一局你杀死了自己的一个队员。"
+"Cstrike_TitlesTXT_Hint_careful_around_hostages"		"小心周围的人质。如果你杀死人质的话那么就会损失金钱。"
+"Cstrike_TitlesTXT_Hint_careful_around_teammates"		"小心！
+你不能射击自己的队友！"
+"Cstrike_TitlesTXT_Hint_ct_vip_zone"		"你现在处于VIP营救区域。
+快将VIP护送到这里。"
+"Cstrike_TitlesTXT_Hint_hostage_rescue_zone"		"你现在处于一个营救地点内。快去将那些人质带到这里来。"
+"Cstrike_TitlesTXT_Hint_lost_money"		"因为你杀死一个人质，从而损失了一定的金钱。"
+"Cstrike_TitlesTXT_Hint_out_of_ammo"		"你没弹药了。快回去购买弹药。"
+"Cstrike_TitlesTXT_Hint_press_buy_to_purchase"		"按下购买键来购买物品。"
+"Cstrike_TitlesTXT_Hint_press_use_so_hostage_will_follow"		"按下使用键就可以让人质跟随着你。"
+"Cstrike_TitlesTXT_Hint_prevent_hostage_rescue"		"阻止反恐精英营救人质"
+"Cstrike_TitlesTXT_Hint_removed_for_next_hostage_killed"		"如果你再杀死一个人质,你就被从服务器上踢掉。"
+"Cstrike_TitlesTXT_Hint_rescue_the_hostages"		"营救人质就可以获得金钱！"
+"Cstrike_TitlesTXT_Hint_reward_for_killing_vip"		"你因为杀死了VIP而获得$2500的奖励。"
+"Cstrike_TitlesTXT_Hint_spotted_a_friend"		"你发现了一个队友。"
+"Cstrike_TitlesTXT_Hint_spotted_an_enemy"		"你发现了一个敌人。"
+"Cstrike_TitlesTXT_Hint_terrorist_escape_zone"		"你现在处于一个恐怖份子逃亡区域。阻止恐怖份子的逃离。"
+"Cstrike_TitlesTXT_Hint_terrorist_vip_zone"		"你现在到了一个VIP营救区域。阻止VIP到达这里。"
+"Cstrike_TitlesTXT_Hint_try_not_to_injure_teammates"		"不要伤害你的队友。"
+"Cstrike_TitlesTXT_Hint_use_hostage_to_stop_him"		"你可以按下使用键来让人质停止跟随你。"
+"Cstrike_TitlesTXT_Hint_use_nightvision"		"按下NIGHTVISION键就可以打开或者关闭夜视仪。
+也可通过在终端输入以下的命令来进行调整：
+
++nvgadjust
+
+
+-nvgadjust
+"
+"Cstrike_TitlesTXT_Hint_win_round_by_killing_enemy"		"你杀死了一个敌人！
+消灭所有的敌人，你就可以赢得这一局的胜利。"
+"Cstrike_TitlesTXT_Hint_you_are_in_targetzone"		"你现在进入了目标区域。选择炸弹并持续按下开火键。"
+"Cstrike_TitlesTXT_Hint_you_are_the_vip"		"你现在就是VIP。快前往营救地区。"
+"Cstrike_TitlesTXT_Hint_you_have_the_bomb"		"你拥有一颗炸弹！
+快去找到炸弹点或者扔下炸弹交给别的恐怖份子"
+"Cstrike_TitlesTXT_Hold_this_position"		"守住这个位置。"
+"Cstrike_TitlesTXT_Hostage"		"人质"
+"Cstrike_TitlesTXT_Hostage_down"		"人质被杀害了。"
+"Cstrike_TitlesTXT_Ignore_Broadcast_Messages"		"你现在忽视了所有的广播信息。"
+"Cstrike_TitlesTXT_Ignore_Broadcast_Team_Messages"		"现在你不会收到队伍/广播消息"
+"Cstrike_TitlesTXT_Ignore_Radio"		"现在忽略所有的无线电信息"
+"Cstrike_TitlesTXT_In_position"		"我已经进入位置。"
+"Cstrike_TitlesTXT_Injured_Hostage"		"你伤害了一个人质！"
+"Cstrike_TitlesTXT_Kevlar"		"避弹衣"
+"Cstrike_TitlesTXT_Kevlar_Helmet"		"避弹衣+头盔"
+"Cstrike_TitlesTXT_Kevlar_Vest"		"避弹衣"
+"Cstrike_TitlesTXT_Kevlar_Vest_Ballistic_Helmet"		"避弹衣+头盔"
+"Cstrike_TitlesTXT_Killed_Hostage"		"你杀死了一个人质！"
+"Cstrike_TitlesTXT_Killed_Teammate"		"你杀死了一个队友!"
+"Cstrike_TitlesTXT_MachineGuns"		"机关枪"
+"Cstrike_TitlesTXT_Map_Description_not_available"		"没有地图的描述信息"
+"Cstrike_TitlesTXT_Map_Vote_Extend"		"地图的时间已经延长30分钟。"
+"Cstrike_TitlesTXT_Map_descr_not_avail"		"没有地图描述信息。"
+"Cstrike_TitlesTXT_Mic_Volume"		"麦克风音量"
+"Cstrike_TitlesTXT_Muted"		"你已经屏蔽掉了%s1。"
+"Cstrike_TitlesTXT_Name_change_at_respawn"		"在你再生之后，你的名字就会更改。"
+"Cstrike_TitlesTXT_NightVision"		"夜视仪"
+"Cstrike_TitlesTXT_Nightvision_Goggles"		"夜视仪"
+"Cstrike_TitlesTXT_No_longer_hear_that_player"		"你以后再也不会听到该玩家声音。"
+"Cstrike_TitlesTXT_OBS_CHASE_FREE"		"自由追逐视角"
+"Cstrike_TitlesTXT_OBS_CHASE_LOCKED"		"锁定追逐视角"
+"Cstrike_TitlesTXT_OBS_IN_EYE"		"第一人称视角"
+"Cstrike_TitlesTXT_OBS_MAP_CHASE"		"追逐总览地图视角"
+"Cstrike_TitlesTXT_OBS_MAP_FREE"		"自由总览地图视角"
+"Cstrike_TitlesTXT_OBS_NONE"		"视角选项"
+"Cstrike_TitlesTXT_OBS_ROAMING"		"自由查看"
+"Cstrike_TitlesTXT_Only_1_Team_Change"		"只能更改一次队伍。"
+"Cstrike_TitlesTXT_Only_CT_Can_Move_Hostages"		"只有反恐精英才能移动人质！"
+"Cstrike_TitlesTXT_Phoenix_Connexion"		"凤凰战士"
+"Cstrike_TitlesTXT_Pistols"		"手枪"
+"Cstrike_TitlesTXT_Player"		"玩家"
+"Cstrike_TitlesTXT_Player_plural"		"玩家"
+"Cstrike_TitlesTXT_Prim_Ammo"		"主武器弹药"
+"Cstrike_TitlesTXT_Regroup_team"		"重新编队。"
+"Cstrike_TitlesTXT_Report_in_team"		"各小组成员快点报到。"
+"Cstrike_TitlesTXT_Reporting_in"		"报告。"
+"Cstrike_TitlesTXT_Rifles"		"自动步枪"
+"Cstrike_TitlesTXT_Roger_that"		"明白了。"
+"Cstrike_TitlesTXT_SAS"		"SAS"
+"Cstrike_TitlesTXT_SCORES"		"得分"
+"Cstrike_TitlesTXT_SMGs"		"微型冲锋枪的"
+"Cstrike_TitlesTXT_SPECT_OPTIONS"		"选项"
+"Cstrike_TitlesTXT_Seal_Team_6"		"Seal Team 6"
+"Cstrike_TitlesTXT_Sec_Ammo"		"副武器弹药"
+"Cstrike_TitlesTXT_Sector_clear"		"该区域得到控制。"
+"Cstrike_TitlesTXT_Selection_Not_Available"		"没有选择可用"
+"Cstrike_TitlesTXT_Shotguns"		"散弹枪"
+"Cstrike_TitlesTXT_Smoke_Grenade"		"烟雾弹"
+"Cstrike_TitlesTXT_Speaker_Volume"		"说话者音量"
+"Cstrike_TitlesTXT_Spec_Auto"		"自动"
+"Cstrike_TitlesTXT_Spec_Duck"		"按下蹲伏键就可以打开观看者菜单。"
+"Cstrike_TitlesTXT_Spec_Help_Text"		"使用下列的键来改变观看模式：
+
+
+开火键1－跟踪下一个玩家
+
+开火键2－跟踪上一个玩家
+跳－改变观看模式
+使用－改变窗口模式
+蹲－使用观看者菜单"
+
+ 
+  
+
+
+//-------------------------------------------------中文command菜单 制作：狼牙 QQ:12581758------------------------------
+
+"langya_Demo"                                    "DEMO菜单"
+"langya_record"                                  "录制DEMO"
+"langya_stoprecord"                                  "停止录制DEMO"
+"langya_viewdemo"                                  "播放DEMO"
+"langya_BOTs"                                    "BOT菜单"
+"langya_Quick_add_bot"                                    "快速添加BOT"
+"langya_Kill_BOTs"                                    "杀死所有BOT"
+"langya_Add_BOTs"                                    "增加BOT"
+"langya_BOT_Number"                                    "BOT数目"
+"langya_1_BOT"                                    "1个BOT"
+"langya_2_BOT"                                    "2个BOT"
+"langya_3_BOT"                                    "3个BOT"
+"langya_4_BOT"                                    "4个BOT"
+"langya_5_BOT"                                    "5个BOT"
+"langya_6_BOT"                                    "6个BOT"
+"langya_7_BOT"                                    "7个BOT"
+"langya_8_BOT"                                    "8个BOT"
+"langya_9_BOT"                                    "9个BOT"
+"langya_Enter_a_number_of_BOT"                                    "输入BOT添加数目"
+"langya_Add_a_T"                                    "加入恐怖份子"
+"langya_Add_a_CT"                                    "加入反恐精英"
+"langya_Kick_BOTs"                                    "踢出所有BOT"
+"langya_Weapon_Mode"                                    "武器模式"
+"langya_Knife_Only"                                    "仅用匕首"
+"langya_Pistols_Only"                                    "仅用手枪"
+"langya_Snipers_Only"                                    "仅用狙击"
+"langya_All_Weapons"                                    "所有武器"
+"langya_Weapon_Allow"                                    "允许使用的武器"
+"langya_Pistols"                                    "手枪"
+"langya_Enable"                                    "允许"
+"langya_Disable"                                    "禁止"
+"langya_Shotguns"                                     "霰弹枪"
+"langya_Sub_Machine_Guns"                                    "半自动机枪"
+"langya_Rifles"                                    "步枪"
+"langya_Snipers"                                    "狙击枪"
+"langya_Machine_Guns"                                    "机关枪"
+"langya_Grenades"                                    "榴弹"
+"langya_Shield"                                    "防弹护盾"
+"langya_SETTINGS"                                    "设置"
+"langya_Bot_Level"                                    "BOT级别"
+"langya_Expert"                                    "专家"
+"langya_Hard"                                    "困难"
+"langya_Normal"                                    "正常"
+"langya_Easy"                                    "简单"
+"langya_BOT_Join_Team"                                    "BOT加入团队"
+"langya_botT"                                    "恐怖份子"
+"langya_botCT"                                    "反恐精英"
+"langya_botAny"                                    "任何一方"
+"langya_allow_rogues"                                    "允许作弊"
+"langya_ON"                                    "开启"
+"langya_OFF"                                     "关闭"
+
+"langya_Server_Settings"                                    "服务器设置"
+	"langya_OP_Password"                                    "OP 密码"
+	"langya_Restart_Round_1sec"                                    "1秒后刷新"
+	"langya_Restart_Game"                                    "重启游戏"
+	"langya_Start_Money"                                    "开局金钱"
+	"langya_AutoTeamBalance"                                    "自动队伍人数平衡"
+	"langya_ForceChaseCam"                                    "观察视角"
+	"langya_Free"                                    "自由观察"
+	"langya_Teammate"                                    "队友视角"
+	"langya_Cadaver"                                    "固定视角"
+	"langya_Set_Time"                                    "时间设置"
+	"langya_TimeLimit_(min)"                                    "限制时间"
+	"langya_time_15min"                                    "15分钟"
+	"langya_time_30min"                                    "30分钟"
+	"langya_time_50min"                                    "50分钟"
+	"langya_time_MAXmin"                                    "不限时间"
+	"langya_RoundTime_(min)"                                    "回合时间"
+	"langya_time_2min"                                    "2分钟"
+	"langya_time_3min"                                    "3分钟"
+	"langya_time_4min"                                    "4分钟"
+	"langya_time_5min"                                    "5分钟"
+	"langya_FreezeTime_(sec)"                                    "冻结时间"
+	"langya_time_0sec"                                    "不冻结"
+	"langya_time_2sec"                                    "2秒"
+	"langya_time_3sec"                                    "3秒"
+	"langya_time_5sec"                                    "5秒"
+	"langya_BuyTime_(sec)"                                    "购买武器时间"
+	"langya_timesecond_15"                                    "15秒"
+	"langya_timesecond_30"                                    "30秒"
+	"langya_timesecond_60"                                    "60秒"
+	"langya_timesecond_90"                                    "90秒"
+	"langya_Unlimit"                                    "无限时"
+	"langya_C4timer"                                    "C4引爆时间"
+	"langya_C4timer_35"                                    "35秒"
+	"langya_C4timer_45"                                    "45秒"
+	"langya_Match_Settings"                                    "比赛设置"
+	"langya_FriendlyFire"                                    "队友伤害"
+	"langya_Black_Hold"                                    "黑屏显示"
+	"langya_Status"                                    "查看信息"
+	"langya_Users"                                    "玩家信息"
+	"langya_Kick"                                    "踢出玩家"
+	"langya_Gravity"                                    "地心引力"
+	"langya_Normal"                                    "正常"
+	"langya_Light"                                    "轻盈"
+	"langya_Heavy"                                    "沉重"
+	"langya_Zero"                                    "失重"
+
+"langya_GUI_Menu"                         "图形菜单"
+
+"langya_left_or_Right_Hand"      "持枪方式"
+"langya_Left_Hand"  "左手持枪"
+"langya_Right_Hand"   "右手持枪"
+"langya_Fastswitch"  "一键换抢"
+"langya_ON"                                    "开启"
+"langya_OFF"                                     "关闭"
+"langya_Dynamiccrosshair" "动态准星"
+"langya_ON"                                    "开启"
+"langya_OFF"                                     "关闭"
+"langya_ex_interp"  "插入帧补偿"
+"langya_0.1"  "0.1"
+"langya_0.75"  "0.75"
+"langya_0.05"  "0.01"
+"langya_Adjust_Crosshair"   "调节准星颜色"
+"langya_Show_Weapon"   "武器展示"
+"langya_Radar"         "雷达选项"
+"langya_Radar_on"  "开启雷达"
+"langya_Radar_off" "关闭雷达" 
+"langya_Radar_Solid" "实心雷达"      
+"langya_Radar_Transparent" "透明雷达"
+"langya_ON"           "开启"
+"langya_OFF"          "关闭"
+"langya_Graphic"   "信息图示"
+"langya_Net_Graph"   "网络图示"
+	"langya_OFF"     "关闭"
+	"langya_Mode_1"  "模式1"
+	"langya_Mode_2"  "模式2"
+	"langya_Mode_3"  "模式3"
+
+"langya_Net_Graph_Postion"       "图示位置"
+	"langya_Left"    "靠左"
+	"langya_Center"   "居中"
+	"langya_Right"  "靠右"
+
+"langya_Draw_FPS"    "提取FPS值"
+
+"langya_FPS_Max"  "FPS最大值"
+	"langya_200"   "FPS 200"
+	"langya_150"  "FPS 150"
+	"langya_100"   "FPS 100"
+	"langya_60" "FPS 60"
+
+"langya_Smoke_Effect"     "烟雾弹效果"
+	"langya_Best"     "最佳"
+	"langya_Normal"   "正常"
+	"langya_Bad"     "很差"
+
+"langya_Player_Shadow" "玩家阴影"
+"langya_ON"      "开启"
+"langya_OFF"    "关闭"
+
+"langya_Change_Map" "更换地图"
+"langya_All_Maps" "所有地图"
+"langya_Enter_a_Map" "输入地图"
+
+"langya_Change_Name" "更换名字"
+
+"langya_Sensitivity" "鼠标灵敏度"
+
+"langya_Exit" "退出菜单"
+
+//-------------------------------------------------中文command菜单 制作：狼牙 QQ:12581758------------------------------
+
+
+
+//---------------------------------------------------------------------------------------------------------------------
+"Cstrike_TitlesTXT_Spec_Help_Title"		"观看者模式"
+"Cstrike_TitlesTXT_Spec_ListPlayers"		"列出所有玩家"
+"Cstrike_TitlesTXT_Spec_Map"		"地图"
+"Cstrike_TitlesTXT_Spec_Mode1"		"锁定追逐视角"
+"Cstrike_TitlesTXT_Spec_Mode2"		"自由追逐视角"
+"Cstrike_TitlesTXT_Spec_Mode3"		"自由查看"
+"Cstrike_TitlesTXT_Spec_Mode4"		"第一人称视角"
+"Cstrike_TitlesTXT_Spec_Mode5"		"自由总览地图视角"
+"Cstrike_TitlesTXT_Spec_Mode6"		"追逐总览地图视角"
+"Cstrike_TitlesTXT_Spec_NoPlayers"		"没有玩家可供你观看"
+"Cstrike_TitlesTXT_Spec_NoTarget"		"没有有效目标。不能切换到跟踪视角模式。"
+"Cstrike_TitlesTXT_Spec_No_PIP"		"在第一人称视角模式中画中画功能是不可用的。"
+"Cstrike_TitlesTXT_Spec_Not_In_Spectator_Mode"		"**你现在不是在观看者模式中。"
+"Cstrike_TitlesTXT_Spec_Not_Valid_Choice"		"**你不能来观看这个玩家的行动。"
+"Cstrike_TitlesTXT_Spec_Replay"		"立刻回放"
+"Cstrike_TitlesTXT_Spec_Slow_Motion"		"慢动作"
+"Cstrike_TitlesTXT_Spec_Time"		"时间"
+"Cstrike_TitlesTXT_Spectators"		"观看者"
+"Cstrike_TitlesTXT_Stick_together_team"		"靠在一起，队友们！"
+"Cstrike_TitlesTXT_Storm_the_front"		"快向前线开火！"
+"Cstrike_TitlesTXT_Switch_To_BurstFire"		"转换到爆炸开火模式"
+"Cstrike_TitlesTXT_Switch_To_FullAuto"		"切换到自动状态"
+"Cstrike_TitlesTXT_Switch_To_SemiAuto"		"切换到半自动状态"
+"Cstrike_TitlesTXT_TRAINING1"		"使用购买键来购买物品：
+-微型冲锋枪
+-主武器弹药"
+"Cstrike_TitlesTXT_TRAINING2"		"使用购买键来购买:
+-大狙击步枪"
+"Cstrike_TitlesTXT_TRAINING3"		"使用购买键来购买
+－烟雾弹"
+"Cstrike_TitlesTXT_TRAINING4"		"从架子上收集C4炸弹。"
+"Cstrike_TitlesTXT_TRAINING5"		"放置好C4炸弹之后安全撤退！"
+"Cstrike_TitlesTXT_TRAINING6"		"持续按下你的使用键就可以拆除炸弹。"
+"Cstrike_TitlesTXT_TRAINING7"		"找到并营救人质"
+"Cstrike_TitlesTXT_TactShield"		"防暴盾"
+"Cstrike_TitlesTXT_TactShield_Desc"		"防暴盾"
+"Cstrike_TitlesTXT_Taking_fire"		"遭到攻击，需要支援！"
+"Cstrike_TitlesTXT_Team_fall_back"		"队友们，快撤退！"
+"Cstrike_TitlesTXT_Terrorist_Escaped"		"一个恐怖份子逃离！"
+"Cstrike_TitlesTXT_Terrorist_Forces"		"恐怖份子"
+"Cstrike_TitlesTXT_Terrorist_cant_buy"		"恐怖份子在这张地图上不能购买任务物品！"
+"Cstrike_TitlesTXT_Terrorists_Full"		"恐怖份子队伍人数已满！"
+"Cstrike_TitlesTXT_Title_ct_model_selection"		"cT模型选择"
+"Cstrike_TitlesTXT_Title_equipment_selection"		"装备选择"
+"Cstrike_TitlesTXT_Title_gign"		"法国的GIGN小组"
+"Cstrike_TitlesTXT_Title_gsg9"		"德国GSG-9"
+"Cstrike_TitlesTXT_Title_machinegun_selection"		"选择机关枪"
+"Cstrike_TitlesTXT_Title_pistol_selection"		"选择手枪"
+"Cstrike_TitlesTXT_Title_rifle_selection"		"选择自动步枪"
+"Cstrike_TitlesTXT_Title_seal_team"		"US Seal Team 6 (DEVGRU)"
+"Cstrike_TitlesTXT_Title_shotgun_selection"		"选择散弹枪"
+"Cstrike_TitlesTXT_Title_smg_selection"		"选择微型冲锋枪"
+"Cstrike_TitlesTXT_Too_Many_CTs"		"反恐精英人数太多！"
+"Cstrike_TitlesTXT_Too_Many_Terrorists"		"恐怖份子人数太多！"
+"Cstrike_TitlesTXT_VIP"		"VIP"
+"Cstrike_TitlesTXT_VIP_cant_buy"		"现在是VIP，你不能购买任何物品。"
+"Cstrike_TitlesTXT_Voice_Properties"		"声音属性"
+"Cstrike_TitlesTXT_Vote"		"%s1 :  %s2 (%s3 投票)"
+"Cstrike_TitlesTXT_Votes"		"%s1 :  %s2 (%s3 投票)"
+"Cstrike_TitlesTXT_WINS"		"赢的次数"
+"Cstrike_TitlesTXT_Wait_3_Seconds"		"请等待3秒钟。"
+"Cstrike_TitlesTXT_Weapon_Cannot_Be_Dropped"		"这个武器不能被扔掉"
+"Cstrike_TitlesTXT_You_take_the_point"		"你守住这里。"
+"Cstrike_NewMultiplayerGame"		"&新的多人模式游戏"
+"Www.ChnCs.Net - ConTRa *"      "-]CHN[- 狼牙"
+"Www.ChnCs.Net*"                "[CHN] 反恐怖精英联盟"
+"Www.ChnCs.Net - L@ng.Ya*"      "-]CHN[- 队长"
+"lang.ya*"                      "狼牙"
+"Www.ChnCs.Net - JEEEEEp"       "-]CHN[- 吉普"
+"Www.ChnCs.Net - DaSh Man*"     "-]CHN[- 胖墩"
+"Www.ChnCs.Net - KaKa'Gg*"      "-]CHN[- 果果" 
+"Www.ChnCs.Net - Xq!b*"         "-]CHN[- 大鸟" 
+"Www.ChnCs.Net - Y.s*"          "-]CHN[- 天隼"
+"Www.ChnCs.Net - 1979*"         "-]CHN[- 小谢"
+"Www.ChnCs.Net - PALm@n.X*"     "-]CHN[- 花儿" 
+"Www.ChnCs.Net - L.T <Qs>*"     "-]CHN[- 老田"
+"Www.ChnCs.Net - KinG*"         "-]CHN[- 心爱"
+"CHN.virus :: Kemp<Bus>.hn*"    "-]CHN[- 傻青" 
+"CHN.virus :: Styx<aKala>.hn*"  "-]CHN[- 骨头"
+"CHN.virus :: rAjQ<JJ&YY>.hn*"  "-]CHN[- 昆"
+"CHN.virus :: Jolin<Star>.hn*"  "-]CHN[- 星"
+"CHN.virus :: RapMe<Ray>.hn*"   "-]CHN[- 潘多拉"
+"IcE.ReaSon | NiNia"           "邹迅" 
+"Dz.Lc"                        "邓州浪潮电脑"
+"NiNia"                        "冰缘吧" 
+"Www.Esai.Cn"                  "亿赛网"
+"www.pmcc.com.cn"              "平煤信通"
+"Career_Delete"		"删除选择的个人资料"
+"Career_Difficulty"		"[选择难度]"
+"Career_Difficulty0"		"简单任务"
+"Career_Difficulty1"		"普通任务"
+"Career_Difficulty2"		"困难任务"
+"Career_Difficulty3"		"专家任务"
+"Career_DeleteProfileTitle"		"删除档案"
+"Career_DeleteProfileText"		"你确定要删除 %s1吗？"
+"Career_RetryMatch"		"再来一场比赛"
+"Career_Task_injurewith"		"你必须伤害一个敌人 %s1"
+"Career_Task_injurewith_multi"		"你必须伤害 %s2个敌人%s1"
+"Career_Cost"		"费用 %s1"
+"Career_Secured"		"[安全的]"
+"Career_Weapon_fn57"		"带有一把ES five-seven"
+"CStrike_Tutor_Toggle"		"开关辅导系统"
+"CZero_Credits_Title"		"反恐精英：零点行动"
+"CZero_Credits_Programming"		"编程"
+"CZero_Credits_Art"		"美术"
+"CZero_Credits_Managing_Director"		"常务董事"
+"CZero_Credits_COO"		"C.O.O."
+"CZero_Credits_Production"		"生产"
+"CZero_Credits_Mapping"		"地图"
+"CZero_Credits_Art_Director"		"美术总监"
+"CZero_Credits_Art_Lead"		"美术首席设计师"
+"CZero_Credits_Technical_Art"		"技术美工"
+"CZero_Credits_Biz"		"商业"
+"CZero_Credits_Game_Design"		"游戏设计"
+"CZero_Credits_Lead_Level_Designer"		"关卡首席设计师"
+"CZero_Credits_Level_Design"		"关卡设计"
+"CZero_Credits_Lead_Programmer"		"首席程序师"
+"CZero_Credits_Project_Manager"		"项目经理"
+"CZero_Credits_Support"		"支持"
+"CZero_Credits_Testing"		"测试"
+"CZero_Credits_Additional_Art"		"其他一些美术人员"
+"CZero_Credits_Executive_Producer"		"执行制片人"
+"CZero_Credits_Administration"		"行政"
+"CZero_Credits_Marketing_Director"		"市场总监"
+"CZero_Credits_Brand_Manager"		"产品经理"
+"CZero_Credits_Director_of_Public_Relations"		"公共关系主管"
+"CZero_Credits_Public_Relations_Manager"		"公共关系"
+"CZero_Credits_Creative_Group_Account_Supervisor"		"创意小组主管"
+"CZero_Credits_Vice_President_Development"		"开发VP"
+"CZero_Credits_Operations_and_Production_Manager"		"运作和生产经理"
+"CZero_Credits_Sr_Production_Admin"		"生产助理"
+"CZero_Credits_Vice_President_Finance"		"财务VP"
+"CZero_Credits_Vice_President_and_Assistant_Counsel_VUG_Legal"		"VP和法律助理律师,VUG 法律部门"
+"CZero_Credits_Corporate_Counsel_VUG_Legal"		"公司法律咨询，VUG法律部门"
+"CZero_Credits_Special_Thanks"		"特别鸣谢"
+"CZero_NewCustomGame"		"开始&自定义游戏"
+"CZero_PlayOnLine"		"使用&Steam进行在线游戏 (&S)"
+"CZero_PlayOnLineText"		"这会退出当前的游戏，你还是继续吗？"
+"CZero_Tutor_Turned_On"		"交互式的辅导现在已经启动。"
+"CZero_Tutor_Turned_Off"		"互动式辅导现在不能启动。"
+"Cstrike_RadarType"		"雷达类型"
+"Cstrike_Transparent"		"透明"
+"Cstrike_Solid"		"实心"
+"Career_MissionPack"		"[选择任务]"
+"Career_Team"		"[选择队]"
+"Career_NoTeammates"		"注意！这次对抗中你没有并肩作战的队员！"
+"Career_EnemyListSingle"		"这次对抗中你将遇到1个敌人： "
+"Career_MissionPackCT"		"这些是《反恐精英：零点行动》内置的游戏任务。
+你也可以下载更多任务或创建自己的任务。请访问以下地址，了解具体的操作方法。
+
+领导你的反恐部队精英通过难度不断升级的游戏关，挫败邪恶的恐怖组织一心想杀死或毁灭你的反恐部队的企图。
+
+无数个无辜受害者的命运掌握在你的手中！"
+
+
+"Career_MissionPackTitleCT"		"零点行动"
+"Cstrike_BuyPresetUnavailable"		"不可用"
+"Cstrike_BuyMenuPreset1"		"&S \"%s1\" ($%s2)"
+"Cstrike_BuyMenuPreset2"		"&D \"%s1\" ($%s2)"
+"Cstrike_BuyMenuPreset3"		"&F \"%s1\" ($%s2)"
+"Cstrike_BuyMenuPreset4"		"&G \"%s1\" ($%s2)"
+"Cstrike_BuyMenuPresetMultiplier"		"x%s1"
+"Cstrike_DescMainBuyPresetPanel"		"单击一个游戏包进行编辑。"
+"Cstrike_DescEditPresetPanel"		"单击一个选项以编辑其中的内容。
+如果购买了此游戏包，则第一个购买选项中的所有内容将被同步购入。"
+"Cstrike_CurrentWeapon"		"<无>"
+"Cstrike_BuyPresetSpectator"		"编辑“购买游戏包”"
+"Cstrike_BuyPresetEditPresetsButton"		"编辑游戏包"
+"Cstrike_BuyPresetEditPresets"		"编辑“购买游戏包”"
+"Cstrike_BuyPresetEditPresetsDirty"		"编辑“购买游戏包”*"
+"Cstrike_BuyPresetSavePresets"		"保存修改"
+"Cstrike_BuyPresetUseDefaults"		"复原默认值"
+"Cstrike_BuyPresetUseDefaultsText"		"此选项将所有游戏包恢复到默认状态。
+
+是否确定？"
+
+"Cstrike_BuyPresetEditPresetTitle"		"编辑“购买游戏包”"
+"Cstrike_BuyPresetPresetButtonLabel"		"%s1 - 总成本$%s2"
+"Cstrike_BuyPresetBlank"		"<不使用 >"
+"Cstrike_BuyPresetChoice"		"随后决定购买："
+"Cstrike_BuyPresetWizardPrimary"		"主要武器和弹药"
+"Cstrike_BuyPresetWizardSecondary"		"手枪和弹药"
+"Cstrike_BuyPresetWizardEquipment"		"装备"
+"Cstrike_BuyPresetMoveUp"		"移动"
+"Cstrike_BuyPresetMoveDown"		"移动"
+"Cstrike_BuyPresetPresetName"		"游戏包名称："
+"Cstrike_BuyPresetExit"		"取消"
+"Cstrike_BuyPresetExitConfirm"		"所作的修改将丢失。
+
+是否确定？"
+
+"Cstrike_BuyPresetEditArmor"		"避弹衣"
+"Cstrike_BuyPresetEditHelmet"		"头盔"
+"Cstrike_BuyPresetEditHEGrenade"		"高爆手雷"
+"Cstrike_BuyPresetEditSmokeGrenade"		"烟雾弹"
+"Cstrike_BuyPresetEditFlashbangs"		"闪光雷"
+"Cstrike_BuyPresetEditDefuser"		"拆弹器"
+"Cstrike_BuyPresetEditNightvision"		"夜视镜"
+"Cstrike_BuyPresetEditClipsOrMore"		"至少%s1个子弹夹"
+"Cstrike_BuyPresetEditWeaponFullClips"		"全部子弹夹"
+"Cstrike_BuyPresetEditWeaponClips"		"弹药"
+"Cstrike_BuyPresetCategoryRifle"		"自动步枪"
+"Cstrike_BuyPresetCategorySniper"		"狙击枪"
+"Cstrike_BuyPresetCategorySMG"		"微型冲锋枪"
+"Cstrike_BuyPresetCategoryHeavy"		"重武器"
+"Career_ContinueDifficulty"		"继续"
+"Career_Map_cs_assault_CAPS"		"ASSAULT"
+"Career_Map_cs_estate_CAPS"		"ESTATE"
+"Career_Map_de_vertigo_CAPS"		"VERTIGO"
+"Career_Map_de_survivor_CAPS"		"SURVIVOR"
+"Career_Map_de_nuke_CAPS"		"NUKE"
+"Career_Map_as_oilrig_CAPS"		"OILRIG"
+"Career_Map_de_train_CAPS"		"TRAIN"
+"Career_Map_cs_assault"		"Assault"
+"Career_Map_cs_estate"		"Estate"
+"Career_Map_de_vertigo"		"Vertigo"
+"Career_Map_de_survivor"		"Survivor"
+"Career_Map_de_nuke"		"Nuke"
+"Career_Map_as_oilrig"		"Oilrig"
+"Career_Map_de_train"		"Train"
+"Cstrike_BuyPresetPlainCost"		"$%s1"
+"Cstrike_BuyPresetEditPrimary"		"主武器"
+"Cstrike_BuyPresetEditSecondary"		"手枪"
+"Cstrike_BuyPresetEditGrenades"		"手雷"
+"Cstrike_BuyPresetEditEquipment"		"装备"
+"Cstrike_BuyPresetWizardGrenades"		"手雷"
+"Cstrike_BuyPresetNewChoice"		" "
+"Cstrike_Quick_Buy"		"快速买枪命令"
+"Cstrike_Current_Money"		"你有$%s1个"
+"Career_MissionPackAuthor"		"创建人：%s1"
+"Career_Task_killdefuser"		"你必须消灭正在拆弹的CT。"
+"Career_Task_killdefuser_multi"		"你必须消灭正在拆弹的%s2个CT。"
+"Career_Task_killvip"		"你必须消灭VIP"
+"Career_Task_killvip_multi"		"你必须%s2次消灭VIP"
+"Career_Task_stoprescue"		"你必须消灭将人质护送到营救区域的CT。"
+"Career_Task_stoprescue_multi"		"你必须消灭将人质护送到营救区域的%s2个CT。"
+"Career_Task_preventdefuse"		"你必须埋放炸弹，并阻止炸弹被拆。"
+"Career_Task_preventdefuse_multi"		"你必须埋放炸弹，并保证炸弹被拆次数低于%s2次。"
+"CZero_LearningMap"		"正在载入地图..."
+"CZero_AnalyzingHidingSpots"		"正在分析藏身点..."
+"CZero_AnalyzingApproachPoints"		"正在分析接近点..."
+"Cstrike_BuyPresetChoice0"		"第一个选项："
+"Cstrike_BuyPresetChoice1"		"第二个选项："
+"Cstrike_BuyPresetChoice2"		"第三个选项："
+"Cstrike_BuyPresetChoice3"		"第四个选项："
+"Cstrike_BuyPresetChoice4"		"第五个选项："
+"Cstrike_BuyPresetSavePreset"		"应用修改"
+"Cstrike_BuyPresetEditPresetTitleDirty"		"编辑“购买游戏包”*"
+"Cstrike_BuyPresetFirstChoice"		"决定购买："
+"Cstrike_BuyPresetEditClips"		"%s1个子弹夹"
+"Cstrike_BuyPresetEditClip"		"1个子弹夹"
+"Cstrike_BuyPresetEditClipOrMore"		"至少1个子弹夹"
+"Cstrike_BuyPresetsBullets"		"（共有%s2颗子弹，已消耗%s1颗）"
+// Radio and chat strings can have control characters embedded to set colors.  For the control characters to be used, one must be at the start of the string.
+// The control characters can be copied and pasted in notepad.
+//  = 0x02 (STX) - Use team color up to the end of the player name.  This only works at the start of the string, and precludes using the other control characters.
+//  = 0x03 (ETX) - Use team color from this point forward
+//  = 0x04 (EOT) - Use location color from this point forward
+//  = 0x01 (SOH) - Use normal color from this point forward
+"Cstrike_Chat_All"		"%s1 :  %s2"
+"Game_radio"		"%s1（无线电）：%s2"
+"Cstrike_Chat_CT"		"（反恐精英）%s1 :  %s2"
+"Cstrike_Chat_T"		"（恐怖份子）%s1 :  %s2"
+"Cstrike_Chat_CT_Dead"		"*死亡*（反恐精英）%s1 :  %s2"
+"Cstrike_Chat_T_Dead"		"*死亡*（恐怖份子）%s1 :  %s2"
+"Cstrike_Chat_Spec"		"（观看者）%s1 :  %s2"
+"Cstrike_Chat_AllDead"		"*死亡* %s1 :  %s2"
+"Cstrike_Chat_AllSpec"		"*旁观者* %s1 :  %s2"
+"Cstrike_Name_Change"		"* %s1更改名字为%s2"
+
+"Cstrike_DEFUSE_KIT" "拆弹器"
+"Cstrike_HEALTH" "生命"
+"Cstrike_ACCOUNT" "金钱"
+"Cstrike_map_militia" "地图 cs_militia"
+}
+}

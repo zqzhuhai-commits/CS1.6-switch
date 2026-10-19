@@ -1,0 +1,45 @@
+//=======================================================================
+//	Copyright SDLash3D team & XashXT group 2021 ©
+//			touchscreen config
+//=======================================================================
+
+touch_config_file "touch.cfg"
+
+// touch cvars
+
+// sensitivity settings
+touch_pitch "90.000000"
+touch_yaw "120.000000"
+touch_forwardzone "0.060000"
+touch_sidezone "0.060000"
+touch_nonlinear_look "0"
+touch_pow_factor "1.300000"
+touch_pow_mult "400.000000"
+touch_exp_mult "0.000000"
+
+// grid settings
+touch_grid_count "50"
+touch_grid_enable "1"
+
+// global overstroke (width, r, g, b, a)
+touch_set_stroke 1 255 255 255 255
+
+// highlight when pressed
+touch_highlight_r "1.000000"
+touch_highlight_g "1.000000"
+touch_highlight_b "1.000000"
+touch_highlight_a "1.000000"
+
+// _joy and _dpad options
+touch_dpad_radius "1.000000"
+touch_joy_radius "1.000000"
+
+// how much slowdown when Precise Look button pressed
+touch_precise_amount "0.500000"
+
+// enable/disable move indicator
+touch_move_indicator "0.000000"
+
+// touch buttons
+touch_addbutton "look" "" "_look" 0.000000 0.000000 1.000000 1.000000 255 255 255 255 0
+touch_addbutton "scores" "touch_default/map.tga" "+showscores" 0.920000 0.000000 1.000000 0.151486 255 255 255 255 8

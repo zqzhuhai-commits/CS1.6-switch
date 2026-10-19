@@ -1,0 +1,90 @@
+[2025:02:15|08:42:06] Adding directory: valve/
+=================================================================================
+	 (build 4165) started at Feb15 2025 [08:42.06]
+=================================================================================
+[2025:02:15|08:42:06] Adding directory: cstrike/downloaded/
+[2025:02:15|08:42:06] Adding directory: cstrike/
+[2025:02:15|08:42:06] Adding directory: cstrike/custom/
+[2025:02:15|08:42:06] IN_TouchInit()
+[2025:02:15|08:42:06] hostport is read-only.
+[2025:02:15|08:42:06] clientport is read-only.
+[2025:02:15|08:42:06] net_qport is read-only.
+[2025:02:15|08:42:06] Dll loaded for game "Counter-Strike"
+[2025:02:15|08:42:06] ReGameDLL version: 5.30.0.859-dev+m
+[2025:02:15|08:42:06] execing video.cfg
+[2025:02:15|08:42:06] Loading renderer: gl -> libref_gl.so
+[2025:02:15|08:42:06] execing opengl.cfg
+[2025:02:15|08:42:07] Trying safe opengl mode 0
+[2025:02:15|08:42:07] bpp 32
+[2025:02:15|08:42:07] 
+[2025:02:15|08:42:07] GL_VENDOR: nouveau
+[2025:02:15|08:42:07] GL_RENDERER: NV120
+[2025:02:15|08:42:07] GL_VERSION: 4.3 (Compatibility Profile) Mesa 20.1.0-rc3
+[2025:02:15|08:42:07] GL_MAX_TEXTURE_SIZE: 16384
+[2025:02:15|08:42:07] GL_MAX_TEXTURE_UNITS_ARB: 8
+[2025:02:15|08:42:07] GL_MAX_CUBE_MAP_TEXTURE_SIZE_ARB: 16384
+[2025:02:15|08:42:07] GL_MAX_TEXTURE_MAX_ANISOTROPY_EXT: 16.0
+[2025:02:15|08:42:07] GL_MAX_RECTANGLE_TEXTURE_SIZE: 16384
+[2025:02:15|08:42:07] GL_MAX_ARRAY_TEXTURE_LAYERS_EXT: 2048
+[2025:02:15|08:42:07] GL_MAX_TEXTURE_COORDS_ARB: 8
+[2025:02:15|08:42:07] GL_MAX_TEXTURE_IMAGE_UNITS_ARB: 32
+[2025:02:15|08:42:07] GL_MAX_VERTEX_UNIFORM_COMPONENTS_ARB: 16384
+[2025:02:15|08:42:07] GL_MAX_VERTEX_ATTRIBS_ARB: 16
+[2025:02:15|08:42:07] 
+[2025:02:15|08:42:07] MODE: 1920x1080
+[2025:02:15|08:42:07] 
+[2025:02:15|08:42:07] VERTICAL SYNC: disabled
+[2025:02:15|08:42:07] Color 24 bits, Alpha 8 bits, Depth 24 bits, Stencil 8 bits
+[2025:02:15|08:42:11] Using SDL audio driver: switch @ 44100 Hz
+[2025:02:15|08:42:11] VoiceCapture_Init: error creating capture device (No capture support)
+[2025:02:15|08:42:11] Warning: No microphone is available.
+[2025:02:15|08:42:12] Error: native object "MenuFactory" is unavailable
+[2025:02:15|08:42:12] Sys_Warn: Error: native object "MenuFactory" is unavailable
+
+[2025:02:15|08:42:12] Init: CS16Client ver. 3953 initialized.
+[2025:02:15|08:42:12] FS_Open(write): 'cstrike/.xash_id'
+[2025:02:15|08:42:12] FS_Open(write): cwd='sdmc:/switch/xash3d' writepath='cstrike/'
+[2025:02:15|08:42:12] execing cstrike.rc
+[2025:02:15|08:42:12] Warning: Unknown command "seta"
+[2025:02:15|08:42:12] Warning: Unknown command "seta"
+[2025:02:15|08:42:12] Warning: Unknown command "seta"
+[2025:02:15|08:42:12] execing config.cfg
+[2025:02:15|08:42:12] cl_trace_messages is cheat protected.
+[2025:02:15|08:42:12] execing userconfig.cfg
+[2025:02:15|08:42:12] execing nswitch.cfg
+[2025:02:15|08:42:12] execing userconfig.d/touch_defalias.cfg
+[2025:02:15|08:42:12] execing userconfig.d/userconfig.cfg
+[2025:02:15|08:42:12] Warning: Unknown command "cl_predict"
+[2025:02:15|08:42:15] Localize_AddToDict( resource/mainui_english.txt ): couldn't open file. Some strings will not be localized!.
+[2025:02:15|08:42:46] Scanning for servers on the local network area...
+[2025:02:15|08:42:46] Server IPv4 address 1.0.0.127:27015
+[2025:02:15|08:42:46] Error: NET_SendPacket: Network is unreachable to 15.0.0.0:27015
+[2025:02:15|08:42:57] FS_Open(write): 'cstrike/maps.lst'
+[2025:02:15|08:42:57] FS_Open(write): cwd='sdmc:/switch/xash3d' writepath='cstrike/'
+[2025:02:15|08:43:30] FS_Open(write): 'cstrike/settings.scr'
+[2025:02:15|08:43:30] FS_Open(write): cwd='sdmc:/switch/xash3d' writepath='cstrike/'
+[2025:02:15|08:43:30] FS_Open(write): 'cstrike/user.scr'
+[2025:02:15|08:43:30] FS_Open(write): cwd='sdmc:/switch/xash3d' writepath='cstrike/'
+[2025:02:15|08:43:30] execing listenserver.cfg
+[2025:02:15|08:43:30] Warning: Unknown command "latch"
+[2025:02:15|08:43:48] ERROR: Failed to load 'maps/sex_iceworld.nav' file navigation map!
+[2025:02:15|08:43:48] 	Navigation file not found or access denied.
+[2025:02:15|08:43:56] 32 player server started
+[2025:02:15|08:43:56] execing listenserver.cfg
+[2025:02:15|08:43:56] Trying to connect by modern protocol
+[2025:02:15|08:43:56] FS_Open(write): 'cstrike/demoheader.tmp'
+[2025:02:15|08:43:56] FS_Open(write): cwd='sdmc:/switch/xash3d' writepath='cstrike/'
+[2025:02:15|08:43:56] Spooling demo header.
+[2025:02:15|08:43:56] 
+BUILD 4165 SERVER (0 CRC)
+Server #1
+[2025:02:15|08:43:56] FS_Open(write): 'cstrike/custom.hp2'
+[2025:02:15|08:43:56] FS_Open(write): cwd='sdmc:/switch/xash3d' writepath='cstrike/'
+[2025:02:15|08:44:06] Setting up renderer...
+[2025:02:15|08:44:06] Custom resource propagation complete.
+[2025:02:15|08:44:06] Couldn't open file overviews/sex_iceworld.txt. Using default values for overiew mode.
+[2025:02:15|08:44:06] Couldn't open file overviews/sex_iceworld.txt. Using default values for overiew mode.
+[2025:02:15|08:44:07] execing touch/chooseteam.cfg
+[2025:02:15|08:44:07] execing touch.cfg
+[2025:02:15|08:44:18] execing touch/chooseteam_ct.cfg
+[2025:02:15|08:44:20] Scoring will not start until both teams have players

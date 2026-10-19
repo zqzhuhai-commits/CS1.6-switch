@@ -1,0 +1,11 @@
+// Counter-Strike game metadata for Xash3D FWGS
+title "Counter-Strike"
+trainmap ""
+version 1.6
+type "singleplayer_and_multiplayer"
+gamemode "singleplayer_and_multiplayer"
+nomodels 1
+dllpath "cl_dlls"
+gamedll_linux "dlls/cs.so"
+internal_vgui_support 1
+render_picbutton_text 1
